@@ -1,0 +1,8 @@
+<map id="js_async_function_resolve_finalizer" name="js_async_function_resolve_finalizer">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aee58f0488d619274e9d72be864626298" title="js_async_function_free" alt="" coords="229,81,385,108"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a0272417de9a1be37e1fcc3fdccdb859a" title="js_async_function_free0" alt="" coords="433,81,596,108"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a4b282353917b10409ca38b279b0b1dce" title="js_async_function_terminate" alt="" coords="644,5,832,32"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#ab8db583fa5e7c2b1935854a42859daed" title="JS_FreeValueRT" alt="" coords="677,56,799,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#adfb3133f30938e2db9b525ade5fc09cf" title="remove_gc_object" alt="" coords="674,107,802,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="700,157,776,184"/>
+</map>

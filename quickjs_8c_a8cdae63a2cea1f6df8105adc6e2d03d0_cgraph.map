@@ -1,0 +1,8 @@
+<map id="compute_stack_size" name="compute_stack_size">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa042996addea7da32807474636362082" title="compute_stack_size_rec" alt="" coords="196,69,363,96"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="249,132,310,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="411,5,508,32"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#ad587834d17e95461893d59661e5e9676" title="get_u16" alt="" coords="425,56,493,83"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#a941262a5f72fda2ec43ae7911e97a0dc" title="get_u32" alt="" coords="425,107,493,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="421,157,497,184"/>
+</map>

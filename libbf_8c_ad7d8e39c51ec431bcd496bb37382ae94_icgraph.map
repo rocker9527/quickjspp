@@ -1,0 +1,5 @@
+<map id="bf_logic_op" name="bf_logic_op">
+<area shape="rect" id="node2" href="$libbf_8h.html#aecc5151248f11cb2331296959b8e81e4" title="bf_logic_and" alt="" coords="141,5,236,32"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a37a6b31bec77638b82c2fff186f94442" title="bf_logic_or" alt="" coords="146,56,231,83"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#aa1976226d140c0033bc275141dfc7725" title="bf_logic_xor" alt="" coords="143,107,235,133"/>
+</map>

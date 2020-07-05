@@ -1,0 +1,10 @@
+<map id="set_cycle_flag" name="set_cycle_flag">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a01ec0fbafb5672f6286d5f81a8c55769" title="js_instantiate_prototype" alt="" coords="160,56,320,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a36322a209de4ef17f939e6d128578d7f" title="js_op_define_class" alt="" coords="173,107,307,133"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a945738a975fc3235a1d7858d48d9b274" title="JS_SetConstructor2" alt="" coords="170,157,310,184"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="368,107,479,133"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="547,5,685,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="582,56,650,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="527,107,705,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="569,157,663,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="BC_add_object_ref1" name="BC_add_object_ref1">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a236b90efd249cb2775e66b12d53cab5e" title="BC_add_object_ref" alt="" coords="193,132,327,159"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a00910faacc776e3c2c225aa117aab450" title="JS_ReadTypedArray" alt="" coords="794,183,937,209"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad0e3230c3896c2048283a9302f184fb4" title="JS_ReadObjectTag" alt="" coords="398,81,534,108"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a18da561cb430d36d47200cd3ab394984" title="JS_ReadArray" alt="" coords="812,31,919,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a8fce6f70a6fc880eabcdb9883e3753f2" title="JS_ReadDate" alt="" coords="813,81,917,108"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aa329df3dbab623ec017b77cb77bcce2f" title="JS_ReadObjectValue" alt="" coords="792,132,939,159"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a1cd7ba0345848b691e0f644694fdb55d" title="JS_ReadArrayBuffer" alt="" coords="395,132,537,159"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a808ad95bb98b44a5a4fd6ac9af1b6d53" title="JS_ReadSharedArrayBuffer" alt="" coords="375,183,557,209"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="605,107,744,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="init_class_range" name="init_class_range">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="169,5,332,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a3afdbdd7b58ef7e1dcc178c362071b3d" title="JS_AddIntrinsicProxy" alt="" coords="177,56,325,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a27966451027feb455b5da12c1578771c" title="JS_NewRuntime2" alt="" coords="187,107,315,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="381,56,500,83"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="579,56,673,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#afc1ca27a266094085ebb43e2eea0dda2" title="JS_NewRuntime" alt="" coords="380,107,501,133"/>
+<area shape="rect" id="node8" href="$classqjs_1_1Runtime.html#a0860a1339ff567f9f603c7bed4d670f9" title="qjs::Runtime::Runtime" alt="" coords="549,107,703,133"/>
+</map>

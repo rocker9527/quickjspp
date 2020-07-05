@@ -1,0 +1,8 @@
+<map id="JS_SetModuleExportList" name="JS_SetModuleExportList">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#a066e7962ce24f22d5df20968a8baa346" title="js_os_init" alt="" coords="222,5,299,32"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#a08cea1a0226b7603e6969e2208d99d55" title="js_std_init" alt="" coords="220,56,301,83"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#adcca2b4a661355e6ff87a0def2339894" title="js_init_module_os" alt="" coords="351,5,478,32"/>
+<area shape="rect" id="node4" href="$qjs_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="549,5,600,32"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="528,56,621,83"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#a0e65c67dfff872a664f8d29e7eae5a61" title="js_init_module_std" alt="" coords="349,56,480,83"/>
+</map>

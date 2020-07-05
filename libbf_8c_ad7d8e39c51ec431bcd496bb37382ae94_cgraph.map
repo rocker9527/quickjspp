@@ -1,0 +1,18 @@
+<map id="bf_logic_op" name="bf_logic_op">
+<area shape="rect" id="node2" href="$libbf_8h.html#a50a5aa2767f2389a32daf115aaef07af" title="bf_add_si" alt="" coords="149,233,228,260"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#abacc1410890af049e02ebd788364ac48" title="bf_init" alt="" coords="586,81,643,108"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#ab51c43b22c1a81c789ee0e3d53c0e585" title="bf_resize" alt="" coords="744,259,819,285"/>
+<area shape="rect" id="node7" href="$libbf_8h.html#aa6282c789c16c8cf2fe6a8ebd671c6fc" title="bf_set_nan" alt="" coords="571,284,658,311"/>
+<area shape="rect" id="node11" href="$libbf_8h.html#a2b9d906b21e903f2f7f1c9044674ab7d" title="bf_delete" alt="" coords="284,284,359,311"/>
+<area shape="rect" id="node13" href="$libbf_8c.html#a900239b7676c1dd839184666fc520865" title="bf_logic_op1" alt="" coords="141,385,236,412"/>
+<area shape="rect" id="node14" href="$libbf_8h.html#a4954f3435332238433d15977d55ae566" title="bf_max" alt="" coords="156,436,221,463"/>
+<area shape="rect" id="node15" href="$libbf_8h.html#a970a1725f8bc59eda655058c5ff6bc52" title="bf_min" alt="" coords="158,487,219,513"/>
+<area shape="rect" id="node16" href="$libbf_8h.html#ae822c0888d26739bb681dfef282b9150" title="bf_normalize_and_round" alt="" coords="533,5,696,32"/>
+<area shape="rect" id="node17" href="$libbf_8c.html#a9efaad53187f85b1afc28c3f67cc72b6" title="get_bits" alt="" coords="155,588,223,615"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a60ee3eaad83309aaf8a8b8fb81d8b44d" title="bf_set_si" alt="" coords="284,233,359,260"/>
+<area shape="rect" id="node8" href="$libbf_8h.html#a17dc09166f82ffa408f54a2edc4d7855" title="bf_add" alt="" coords="291,183,352,209"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a2378f025beace5741c19bf995c2971d3" title="bf_set_ui" alt="" coords="409,233,483,260"/>
+<area shape="rect" id="node9" href="$libbf_8c.html#a3ebbc1c7473b2ad84ced2b263bf38bae" title="bf_op2" alt="" coords="415,183,477,209"/>
+<area shape="rect" id="node10" href="$libbf_8c.html#a951a1d3ebb338129d86e00f51b47f2ee" title="__bf_add" alt="" coords="409,132,483,159"/>
+<area shape="rect" id="node12" href="$libbf_8h.html#a524c9e60866c08c75061626a4b5e2f29" title="bf_realloc" alt="" coords="407,284,485,311"/>
+</map>

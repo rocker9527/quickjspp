@@ -1,0 +1,15 @@
+<map id="js_define_var" name="js_define_var">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a99125693fff3fd8277f544b15109354b" title="define_var" alt="" coords="152,210,235,237"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a3a87a000ddf41fa41010eff583aa9b28" title="add_hoisted_def" alt="" coords="514,7,631,34"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a9a006fc2eb9bbbc399c396d7a1e8d18b" title="add_scope_var" alt="" coords="308,58,419,85"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab2e0855c4317f8e3b05c0a091bc43a29" title="add_var" alt="" coords="539,58,607,85"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa26b47ba93d2f7737148d89fa85ba21f" title="find_arg" alt="" coords="539,185,607,211"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a392a57dacdcf1d37a0ae6e8b73d7e32c" title="find_hoisted_def" alt="" coords="701,286,819,313"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a83749bc9db22260434eed3a360edc6c0" title="find_lexical_decl" alt="" coords="304,311,423,338"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a17f57e818da8e28af51d672f9dd1e02b" title="find_var" alt="" coords="329,159,397,186"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ad48dbcc587663ec98a4283179c2b96e9" title="find_var_in_child_scope" alt="" coords="283,362,444,389"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a58d52131a3c2240818c58fd0f18bf700" title="is_child_scope" alt="" coords="519,387,627,414"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="710,58,810,85"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#afa610f3175e9cb11fdceac95071099b5" title="js_resize_array" alt="" coords="705,7,815,34"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#afbde1ebad111f9e79ca163dd64f0732d" title="find_lexical_hoisted_def" alt="" coords="492,311,653,338"/>
+</map>

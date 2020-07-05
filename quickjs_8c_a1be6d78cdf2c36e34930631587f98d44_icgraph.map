@@ -1,0 +1,10 @@
+<map id="JS_ToNumber" name="JS_ToNumber">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ab4e100a9cde5f7ec87c92f5e766dbbab" title="JS_AtomIsNumericIndex1" alt="" coords="160,208,335,235"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#add3eea1f6d626963ade3c28a1fd563d1" title="JS_AtomIsNumericIndex" alt="" coords="383,132,551,159"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="832,259,964,285"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a5762c57ae0c9937e986040c01222833a" title="JS_GetPropertyInternal" alt="" coords="612,5,771,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ad13892c0a0f11781b566808876658099" title="JS_GetOwnPropertyInternal" alt="" coords="599,56,784,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a9d6d0a9704951d01c128975e0d2213f8" title="JS_HasProperty" alt="" coords="839,81,957,108"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="1012,208,1169,235"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ad5565bb5cfd5321f181573257f3b0c91" title="JS_CreateProperty" alt="" coords="625,208,758,235"/>
+</map>

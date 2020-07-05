@@ -1,0 +1,12 @@
+<map id="JS_DupContext" name="JS_DupContext">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="193,29,321,56"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a7128998511654840928b9df9d4c55b3c" title="JS_DefineAutoInitProperty" alt="" coords="168,105,345,132"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a21cfe4c4fc9372dc0b95b37667cff0c9" title="JS_NewCFunction3" alt="" coords="187,156,326,183"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a367627778ac537f4bb1f0fd07a2dee1b" title="JS_ReadFunctionTag" alt="" coords="183,207,331,233"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a46a8a7e155cfd0af984f6725f060f0d6" title="__JS_EvalInternal" alt="" coords="422,17,550,44"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#acbcccb7ec58fd4a024ea1d01e5d04561" title="JS_AddIntrinsicEval" alt="" coords="627,17,767,44"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad12b6863ca31850fc39d208bb865420e" title="js_build_module_ns" alt="" coords="418,68,554,95"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aab4130a4c3108a127681be821818528a" title="js_closure" alt="" coords="445,119,527,145"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ac00854b7f1f0f8567af964a2f8f2adb0" title="JS_SetPropertyFunctionList" alt="" coords="393,169,579,196"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a2f5aeb4e31e2001c555335ae5172165b" title="js_get_module_ns" alt="" coords="633,68,760,95"/>
+</map>

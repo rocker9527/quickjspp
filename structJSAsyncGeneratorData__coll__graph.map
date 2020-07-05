@@ -1,0 +1,31 @@
+<map id="JSAsyncGeneratorData" name="JSAsyncGeneratorData">
+<area shape="rect" id="node6" href="$structJSObject.html" title="JSObject" alt="" coords="1393,881,1469,908"/>
+<area shape="rect" id="node2" href="$structlist__head.html" title="list_head" alt="" coords="5,389,80,416"/>
+<area shape="rect" id="node5" href="$structJSStackFrame.html" title="JSStackFrame" alt="" coords="268,1205,377,1232"/>
+<area shape="rect" id="node9" href="$structJSGCObjectHeader.html" title="JSGCObjectHeader" alt="" coords="667,235,806,261"/>
+<area shape="rect" id="node14" href="$structJSPromiseData.html" title="JSPromiseData" alt="" coords="265,440,380,467"/>
+<area shape="rect" id="node15" href="$structJSMapRecord.html" title="JSMapRecord" alt="" coords="684,585,789,612"/>
+<area shape="rect" id="node16" href="$structJSMapState.html" title="JSMapState" alt="" coords="275,389,370,416"/>
+<area shape="rect" id="node18" href="$structJSTypedArray.html" title="JSTypedArray" alt="" coords="1591,716,1696,743"/>
+<area shape="rect" id="node22" href="$structJSArrayBuffer.html" title="JSArrayBuffer" alt="" coords="481,292,585,319"/>
+<area shape="rect" id="node24" href="$structJSContext.html" title="JSContext" alt="" coords="1855,325,1939,352"/>
+<area shape="rect" id="node3" href="$structJSAsyncFunctionState.html" title="JSAsyncFunctionState" alt="" coords="659,1241,815,1268"/>
+<area shape="rect" id="node21" href="$structJSGeneratorData.html" title="JSGeneratorData" alt="" coords="1070,1312,1193,1339"/>
+<area shape="rect" id="node27" href="$structJSAsyncFunctionData.html" title="JSAsyncFunctionData" alt="" coords="1055,1229,1208,1256"/>
+<area shape="rect" id="node4" href="$structJSValue.html" title="JSValue" alt="" coords="7,1071,78,1097"/>
+<area shape="rect" id="node7" href="$structJSProperty.html" title="JSProperty" alt="" coords="1600,847,1687,873"/>
+<area shape="rect" id="node8" href="$structJSVarRef.html" title="JSVarRef" alt="" coords="1092,399,1171,425"/>
+<area shape="rect" id="node10" href="$unionJSCFunctionType.html" title="JSCFunctionType" alt="" coords="869,1455,996,1481"/>
+<area shape="rect" id="node11" href="$structJSPromiseFunctionData.html" title="JSPromiseFunctionData" alt="" coords="451,1517,615,1544"/>
+<area shape="rect" id="node12" href="$structJSRegExpStringIteratorData.html" title="JSRegExpStringIteratorData" alt="" coords="839,1576,1027,1603"/>
+<area shape="rect" id="node13" href="$structJSAsyncFromSyncIteratorData.html" title="JSAsyncFromSyncIteratorData" alt="" coords="431,1643,635,1669"/>
+<area shape="rect" id="node17" href="$structJSBoundFunction.html" title="JSBoundFunction" alt="" coords="870,687,995,713"/>
+<area shape="rect" id="node20" href="$structJSProxyData.html" title="JSProxyData" alt="" coords="483,839,583,865"/>
+<area shape="rect" id="node23" href="$structJSArrayIteratorData.html" title="JSArrayIteratorData" alt="" coords="667,889,806,916"/>
+<area shape="rect" id="node26" href="$structJSFunctionBytecode.html" title="JSFunctionBytecode" alt="" coords="2024,125,2167,152"/>
+<area shape="rect" id="node28" href="$structJSForInIterator.html" title="JSForInIterator" alt="" coords="878,947,987,973"/>
+<area shape="rect" id="node29" href="$structJSMapIteratorData.html" title="JSMapIteratorData" alt="" coords="1065,769,1197,796"/>
+<area shape="rect" id="node30" href="$structJSCFunctionDataRecord.html" title="JSCFunctionDataRecord" alt="" coords="239,1065,407,1092"/>
+<area shape="rect" id="node25" href="$structJSShape.html" title="JSShape" alt="" coords="1606,375,1681,401"/>
+<area shape="rect" id="node19" href="$structJSRegExp.html" title="JSRegExp" alt="" coords="1089,1167,1174,1193"/>
+</map>

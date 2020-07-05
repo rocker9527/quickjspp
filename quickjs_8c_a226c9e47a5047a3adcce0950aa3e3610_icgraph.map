@@ -1,0 +1,10 @@
+<map id="bc_put_u16" name="bc_put_u16">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aded409755b8a76b40d57ec5fbe8d9653" title="JS_WriteFunctionTag" alt="" coords="143,69,291,96"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a0c946fdd3a6def82765db148f99b8fba" title="JS_WriteString" alt="" coords="161,120,272,147"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="345,69,484,96"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aba35628e2e963dca8fa201e6708046d6" title="JS_WriteArray" alt="" coords="557,5,663,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a3da261d6aeb1d35f3fb47a0076752a57" title="JS_WriteObjectTag" alt="" coords="542,56,678,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab24f0a3286c69433ab7e48dcc39c36cb" title="JS_WriteTypedArray" alt="" coords="539,107,681,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a431ceb41084feaa6af4e466b8b772ab1" title="JS_WriteObject2" alt="" coords="549,157,671,184"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a91942742587df191fbf0f17a2ede99ef" title="JS_WriteObjectAtoms" alt="" coords="339,145,491,172"/>
+</map>

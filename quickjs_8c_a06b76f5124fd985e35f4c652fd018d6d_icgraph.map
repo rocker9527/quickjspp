@@ -1,0 +1,27 @@
+<map id="find_own_property" name="find_own_property">
+<area shape="rect" id="node2" href="$quickjs_8c.html#adb1fc78e06c842a22d4fa3bf3fb75f70" title="get_func_name" alt="" coords="219,156,329,183"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a6a21784a40b8684f2e779bd460dd13b2" title="JS_AddBrand" alt="" coords="705,409,807,436"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#aa71518153e2e2604f0f9caad36af8476" title="JS_CheckBrand" alt="" coords="449,536,566,563"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a7128998511654840928b9df9d4c55b3c" title="JS_DefineAutoInitProperty" alt="" coords="185,453,363,480"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a3865abec9986277dbff58ea314f3d82e" title="JS_DefinePrivateField" alt="" coords="431,587,583,613"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="208,624,340,651"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="429,688,586,715"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ad50f89a3ee5e8b29b31bb62cf8ea0d82" title="JS_SetGlobalVar" alt="" coords="695,739,817,765"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a0e8d8152892d3235c94ec6df17c87d13" title="JS_GetGlobalVar" alt="" coords="446,877,569,904"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a541a07ee8f5d72f230f97472ec9e42dd" title="JS_GetGlobalVarRef" alt="" coords="202,827,346,853"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#ad13892c0a0f11781b566808876658099" title="JS_GetOwnPropertyInternal" alt="" coords="181,776,367,803"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a7bf4f251e0ec8d1b895c8f02120c4987" title="JS_GetPrivateField" alt="" coords="207,979,341,1005"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a5762c57ae0c9937e986040c01222833a" title="JS_GetPropertyInternal" alt="" coords="195,928,353,955"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a03feb143bf5c7905bc161a16b8f99a13" title="js_object_has_name" alt="" coords="437,232,578,259"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#aeadd1b317a296e3b9fd4ebc0261f7559" title="JS_SetPrivateField" alt="" coords="207,283,341,309"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a61c8dfb5e807af1b6ff7d8ca61576dda" title="build_backtrace" alt="" coords="451,131,564,157"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aeafb37b03b5560171754f8c4505b0f6b" title="JS_ThrowError2" alt="" coords="698,131,814,157"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="912,587,1023,613"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#acdcc62310b4f6f73fa7bc7267b18b1d4" title="js_parse_postfix_expr" alt="" coords="681,29,831,56"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ad25358fc5ae69ab218abde24d52b7767" title="js_error_constructor" alt="" coords="687,80,825,107"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#aab4130a4c3108a127681be821818528a" title="js_closure" alt="" coords="715,485,797,512"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#ad12b6863ca31850fc39d208bb865420e" title="js_build_module_ns" alt="" coords="439,435,575,461"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ac00854b7f1f0f8567af964a2f8f2adb0" title="JS_SetPropertyFunctionList" alt="" coords="415,384,600,411"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a80f0e1750e0bb787b098c0c7eafee797" title="JS_DefineObjectName" alt="" coords="678,232,834,259"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a116b8bb41915b573650c477a55d8e46d" title="JS_DefineObjectNameComputed" alt="" coords="648,283,864,309"/>
+</map>

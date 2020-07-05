@@ -1,0 +1,12 @@
+<map id="JS_CheckGlobalVar" name="JS_CheckGlobalVar">
+<area shape="rect" id="node2" href="$quickjs_8c.html#afdc6d90129958f6258bae1505495869f" title="find_own_property1" alt="" coords="193,31,328,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a9d6d0a9704951d01c128975e0d2213f8" title="JS_HasProperty" alt="" coords="201,107,320,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a643df594b75933007bcdbb071b5ea8c5" title="get_shape_prop" alt="" coords="411,5,526,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#add3eea1f6d626963ade3c28a1fd563d1" title="JS_AtomIsNumericIndex" alt="" coords="609,157,777,184"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="1053,107,1157,133"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="642,208,745,235"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#ad13892c0a0f11781b566808876658099" title="JS_GetOwnPropertyInternal" alt="" coords="376,157,561,184"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab4e100a9cde5f7ec87c92f5e766dbbab" title="JS_AtomIsNumericIndex1" alt="" coords="825,157,1000,184"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="1048,183,1163,209"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="855,259,970,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="js_build_module_ns" name="js_build_module_ns">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a2f5aeb4e31e2001c555335ae5172165b" title="js_get_module_ns" alt="" coords="189,43,316,69"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a6357b7fdae71c70c140e78e6c20cb5c2" title="js_dynamic_import_job" alt="" coords="364,5,519,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a89e4f0ec49cdd0029ab50c0509ccc445" title="js_instantiate_module" alt="" coords="367,80,515,107"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a50e94675d1c4cf67c88e72169ea3c21a" title="js_dynamic_import" alt="" coords="583,5,714,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a5d217acce00892ab2b50a1dcc1eb4cc8" title="JS_EvalFunctionInternal" alt="" coords="567,80,731,107"/>
+</map>

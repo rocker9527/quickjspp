@@ -1,0 +1,29 @@
+<map id="js_Date_parse" name="js_Date_parse">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="177,5,306,32"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="567,43,671,69"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="561,93,676,120"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a7bcb8e1a20cbc8374a5f9ba4a2088cec" title="JS_ToString" alt="" coords="194,244,289,271"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#acbfcb88375d84711233f4daf89b0c587" title="set_date_fields" alt="" coords="186,359,297,385"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a80398f847e2e83c2613b638719bf6fda" title="string_get" alt="" coords="579,637,658,664"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#aeb47d79625c5d7ad6e67c1b0d337c19d" title="string_get_digits" alt="" coords="183,587,300,613"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a4982eb970a5d84ffbe51b5186c9d7040" title="string_get_field" alt="" coords="384,789,495,816"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a3f727a5b0254dc65d6cb61d7b4812b9b" title="string_get_month" alt="" coords="180,637,303,664"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#ae8bb4fb34fa1e849bdfd7a108a1f346e" title="string_skip_spaces" alt="" coords="372,688,507,715"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a26c985e3596f8e72dd7d6957fb5efe7c" title="string_get_signed_field" alt="" coords="164,739,319,765"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a156d960178dceb45d82581c53cd7f81b" title="string_skip_non_spaces" alt="" coords="160,485,323,512"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="729,43,848,69"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="896,43,1032,69"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a46d6ebdd8c73102fd9e02a89b1f1d09a" title="JS_ToStringInternal" alt="" coords="371,181,508,208"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a260bfa297ff6cb5bd18e229afaa54663" title="JS_AtomToString" alt="" coords="556,245,681,272"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a6508a2922531adcb280bbff485a9a44a" title="js_dtoa" alt="" coords="587,195,651,221"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a0ee6a3654a6016393fac5e1c108f403a" title="JS_NewString" alt="" coords="735,169,842,196"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="737,321,840,348"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a2b8df609710fa689dd50b4bd18df2493" title="JS_ToPrimitive" alt="" coords="563,296,674,323"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a5fe9e1898e97028fbd772ebc1e914ba8" title="math_mod" alt="" coords="398,232,481,259"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a3f5def6f020bd1c429735f0b1d079b5e" title="days_from_year" alt="" coords="382,283,497,309"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a021e07d41b6d7239b3b44e7cbdff7a15" title="days_in_year" alt="" coords="390,333,489,360"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#adecade3bf915770c66e0a27bc3458343" title="getTimezoneOffset" alt="" coords="373,384,506,411"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a478ea24cf629522a55e209b2619334c7" title="time_clip" alt="" coords="402,435,477,461"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ad1e54b2564697a7a9d7838321308dd54" title="floor_div" alt="" coords="583,397,654,424"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a7a64dc8a6c1daf2e734e3a4f7013b660" title="find_abbrev" alt="" coords="395,637,484,664"/>
+</map>

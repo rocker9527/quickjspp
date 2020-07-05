@@ -1,0 +1,16 @@
+<map id="JS_NewArray" name="JS_NewArray">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aed229eb80b3b03a2275471dee93c69d6" title="js_dup_shape" alt="" coords="563,5,665,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a030c2e98b1775a7e3bdd13be1400b1fe" title="JS_NewObjectFromShape" alt="" coords="156,157,333,184"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a9780456a71703c53244b88831bc8fb7a" title="add_gc_object" alt="" coords="760,284,867,311"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a74547db03bf739a52c83a326b32db997" title="add_property" alt="" coords="383,208,481,235"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a3a9f27520d96cf58aa5bd7359e9cddee" title="js_free_shape" alt="" coords="563,309,665,336"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="401,107,463,133"/>
+<area shape="rect" id="node13" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="381,157,483,184"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a85321334e4bec66bfc03451897a03a3b" title="js_trigger_gc" alt="" coords="384,56,480,83"/>
+<area shape="rect" id="node5" href="$list_8h.html#a3a5d0733570b2fafc18f4c71a2968ea5" title="list_add_tail" alt="" coords="929,284,1020,311"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a3cadcaa2bd1e3f9359f1c006f396cfa0" title="add_shape_property" alt="" coords="545,107,683,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a82dbe63adeac7849406fd48d96f39f7b" title="js_shape_hash_link" alt="" coords="745,183,881,209"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ac0c5dbb01d6082796c44b1c7f7c170f1" title="find_hashed_shape_prop" alt="" coords="531,157,697,184"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a8e34657169da77ae6a386311351ed3de" title="js_clone_shape" alt="" coords="558,259,670,285"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#aeeea589ee4cec4bbc3145210f4cf6e42" title="JS_RunGC" alt="" coords="569,56,659,83"/>
+</map>

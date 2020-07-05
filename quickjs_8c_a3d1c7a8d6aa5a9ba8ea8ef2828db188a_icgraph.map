@@ -1,0 +1,11 @@
+<map id="free_gc_object" name="free_gc_object">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a8defed3434f60d6b5d6a7ea202cc8f9d" title="free_zero_refcount" alt="" coords="160,68,291,95"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#af7c53b26778d6b7e155fab5349a4585e" title="gc_free_cycles" alt="" coords="170,144,281,171"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="339,56,475,83"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#ab8db583fa5e7c2b1935854a42859daed" title="JS_FreeValueRT" alt="" coords="523,5,645,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="525,56,643,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ad80a65b72c3a346d8a0047858a5f0b13" title="JS_FreeRuntime" alt="" coords="693,56,813,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aeeea589ee4cec4bbc3145210f4cf6e42" title="JS_RunGC" alt="" coords="362,151,451,177"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#a9d1d581951398643c2791e45231f87db" title="js_std_gc" alt="" coords="545,157,623,184"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a85321334e4bec66bfc03451897a03a3b" title="js_trigger_gc" alt="" coords="536,208,632,235"/>
+</map>

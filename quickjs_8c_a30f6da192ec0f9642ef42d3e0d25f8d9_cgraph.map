@@ -1,0 +1,18 @@
+<map id="js_object_set___proto__" name="js_object_set___proto__">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a149f24b67e745bad93573b3b4c80db4c" title="JS_IsNull" alt="" coords="885,12,963,38"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#a3d68fe446df2d9c7d1900b16371bff5b" title="JS_IsObject" alt="" coords="251,442,345,469"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="697,24,811,50"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a11b9662411b5b3f631925a0ca708ce25" title="JS_SetPrototypeInternal" alt="" coords="216,341,380,368"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a726b00d108e0a0f4d958c36c2e426a64" title="JS_ThrowTypeErrorNotAnObject" alt="" coords="428,530,641,557"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="873,429,975,456"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="872,277,976,304"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ae8b32777df50bb192c19840adc4d32a1" title="js_proxy_setPrototypeOf" alt="" coords="451,252,618,278"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a3dd8e78607dbc729614deacf55901b95" title="js_shape_prepare_update" alt="" coords="449,341,620,368"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="1029,277,1148,304"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a9e94551ddba8762d74eda5127445dbbd" title="get_proxy_method" alt="" coords="689,74,819,101"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="867,100,981,126"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="707,176,801,202"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ad56da91bca3e6259b73d5148126b5099" title="JS_GetPrototype" alt="" coords="693,378,815,405"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a17c92ef7fbad6a6029f6aa933d669624" title="JS_IsExtensible" alt="" coords="695,277,813,304"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a2bf30c9cddfe98a32535843202495069" title="JS_ToBoolFree" alt="" coords="698,328,810,354"/>
+</map>

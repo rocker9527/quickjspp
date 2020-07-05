@@ -1,0 +1,15 @@
+<map id="find_own_property1" name="find_own_property1">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a2bb0a2ca3b8320f3ff778c65034fce49" title="is_backtrace_needed" alt="" coords="205,5,350,32"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa1646c78b429295983c0fb114f932d49" title="JS_CheckDefineGlobalVar" alt="" coords="188,56,367,83"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#aa4c729f8538eb4637d69f8c64138cfee" title="JS_CheckGlobalVar" alt="" coords="207,107,347,133"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#afda32fadaf7f938b5d1a2458a596a4b9" title="JS_DefineGlobalFunction" alt="" coords="192,157,363,184"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a4e5684e94183b342edf8cf73f1c23d65" title="JS_DefineGlobalVar" alt="" coords="207,208,347,235"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a5032f7c359416923f6470c3e388ffa8f" title="js_module_ns_has" alt="" coords="212,259,343,285"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a0f23e03f0a367d4b5559a14efbb1f4ee" title="seal_template_obj" alt="" coords="214,309,341,336"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="423,107,534,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="611,5,749,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="646,56,714,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="591,107,769,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="633,157,727,184"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a035daca514f14aacc1e0cff81d8e423a" title="js_parse_template" alt="" coords="415,309,543,336"/>
+</map>

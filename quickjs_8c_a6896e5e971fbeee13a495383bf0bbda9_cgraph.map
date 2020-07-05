@@ -1,0 +1,10 @@
+<map id="js_binary_logic_slow" name="js_binary_logic_slow">
+<area shape="rect" id="node2" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="748,5,852,32"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="749,132,851,159"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a643088ab23784b7f3c6ff94c37228256" title="JS_ToInt32Free" alt="" coords="196,56,311,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="905,5,1024,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="1072,5,1208,32"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="743,81,857,108"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ae738291483438efefca5c9fa4d269504" title="JS_ToNumberFree" alt="" coords="359,31,491,57"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a0315f23b9804563f376c47edef2967fd" title="JS_ToNumberHintFree" alt="" coords="539,31,695,57"/>
+</map>

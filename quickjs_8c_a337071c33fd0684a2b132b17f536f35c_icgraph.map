@@ -1,0 +1,17 @@
+<map id="update_label" name="update_label">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa8d2ab1ebfd9a36719314db5cba481fa" title="find_jump_target" alt="" coords="154,134,273,161"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad0d311d4ce409584384f835f1a3e185a" title="resolve_labels" alt="" coords="348,84,453,110"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a069baa06a1214006c4ec473875de010e" title="get_lvalue" alt="" coords="173,328,254,354"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a7858f1fc9afe7bc3548a21f983d015da" title="resolve_scope_var" alt="" coords="148,33,279,60"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a7a4eedc4cc552a71e165f4d28ad43985" title="resolve_variables" alt="" coords="339,33,462,60"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#acbe95d57c42782c940f041bd8fa09c73" title="skip_dead_code" alt="" coords="155,84,271,110"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="535,58,663,85"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a26be546cf89c4580ba9020e8fc43a759" title="js_parse_destructuring\l_element" alt="" coords="523,362,676,403"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#af99673e7430294cf15dc24dc5dac227f" title="js_parse_unary" alt="" coords="943,486,1054,513"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ac188b916dd086803591a67de7e7a85f6" title="js_parse_for_in_of" alt="" coords="935,286,1063,313"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a42924858317b848c3aea0a0a978fab3a" title="js_parse_var" alt="" coords="757,470,853,497"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a4fa2fc1719feb03edf64eaf034103fd2" title="js_parse_assign_expr" alt="" coords="327,294,475,321"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#acdcc62310b4f6f73fa7bc7267b18b1d4" title="js_parse_postfix_expr" alt="" coords="731,361,880,388"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a9d844c16dcc71701436848074337d32c" title="js_parse_statement\l_or_decl" alt="" coords="1111,404,1247,446"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#acc9eb677cab8dfcf45f59381f8a19601" title="js_parse_function_decl2" alt="" coords="724,236,887,262"/>
+</map>

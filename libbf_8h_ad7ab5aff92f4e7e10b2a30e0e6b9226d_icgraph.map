@@ -1,0 +1,31 @@
+<map id="bf_move" name="bf_move">
+<area shape="rect" id="node2" href="$libbf_8h.html#ac290278d0c37a0e7786873f98aadba47" title="bf_mul" alt="" coords="277,509,339,536"/>
+<area shape="rect" id="node22" href="$libbf_8c.html#a3ebbc1c7473b2ad84ced2b263bf38bae" title="bf_op2" alt="" coords="141,1064,203,1090"/>
+<area shape="rect" id="node29" href="$libbf_8h.html#a61eaacce56ae40e8efdf0db48f86b28b" title="bfdec_move" alt="" coords="125,1165,219,1192"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a4f1865c8160fb851cce8015c3edb4d4f" title="bf_tdivremu" alt="" coords="438,1202,529,1229"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#ae080fd42a2c7fc561d7084762204357e" title="bf_sqrtrem" alt="" coords="441,597,525,624"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#acee0d550162528b5ca5513d4479549c2" title="bf_mul_ui" alt="" coords="444,168,523,194"/>
+<area shape="rect" id="node6" href="$libbf_8c.html#a81e50b3d7e7a931a93d6ea7e1d630631" title="chud_bs" alt="" coords="639,242,709,269"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#a11d2dea6becda91c288fd883eefc8e5c" title="bf_const_pi_internal" alt="" coords="779,242,917,269"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#a2b19e3958f6cf3fa0cc534681a5ff259" title="bf_sincos" alt="" coords="635,773,713,800"/>
+<area shape="rect" id="node9" href="$libbf_8h.html#a6fbb1ec8880c203fc01baf940a54cc62" title="bf_mul_si" alt="" coords="444,320,523,346"/>
+<area shape="rect" id="node10" href="$libbf_8c.html#a157194b3c7faaa17e39ae78cd98c4385" title="bf_exp_internal" alt="" coords="619,900,729,926"/>
+<area shape="rect" id="node11" href="$libbf_8c.html#aab7bc918fdd8dbef25c31c6881c73fdd" title="bf_log_internal" alt="" coords="621,521,727,548"/>
+<area shape="rect" id="node12" href="$libbf_8h.html#a93fe073491f8c5f086a75e7bf8865b34" title="bf_pow" alt="" coords="642,117,706,144"/>
+<area shape="rect" id="node13" href="$libbf_8c.html#a3ae2be576639444cdfcb0a232471e77d" title="bf_pow_ui" alt="" coords="443,66,524,93"/>
+<area shape="rect" id="node14" href="$libbf_8c.html#a5d5227218ea18d8ca58be002abc729bf" title="bf_integer_from_radix_rec" alt="" coords="397,672,569,698"/>
+<area shape="rect" id="node15" href="$libbf_8h.html#a0b4d56fc6808de8feed2a234525df692" title="bf_mul_pow_radix" alt="" coords="420,874,547,901"/>
+<area shape="rect" id="node16" href="$libbf_8c.html#aa94726eca10adb51bd141319fdfdb20c" title="bf_integer_to_radix_rec" alt="" coords="405,1152,562,1178"/>
+<area shape="rect" id="node17" href="$libbf_8c.html#a13930fbd670b65bf9f8c07a0fbcfc63b" title="bf_convert_to_radix" alt="" coords="415,824,551,850"/>
+<area shape="rect" id="node18" href="$libbf_8c.html#a829c2ed2112548096d41c6ceb017e542" title="bf_const_log2_rec" alt="" coords="419,546,547,573"/>
+<area shape="rect" id="node19" href="$libbf_8c.html#a15b40c4ae7e9b401fd0c6dc398eacef7" title="bf_sqrt_sin" alt="" coords="440,773,527,800"/>
+<area shape="rect" id="node20" href="$libbf_8c.html#aa4b535a5b33344704c576607ab4f0463" title="bf_atan_internal" alt="" coords="426,1026,541,1053"/>
+<area shape="rect" id="node21" href="$libbf_8c.html#a4a0919b7e170befaf75d114d48d350cc" title="bf_asin_internal" alt="" coords="617,1026,731,1053"/>
+<area shape="rect" id="node23" href="$libbf_8h.html#a17dc09166f82ffa408f54a2edc4d7855" title="bf_add" alt="" coords="277,976,339,1002"/>
+<area shape="rect" id="node24" href="$libbf_8h.html#a030665e68e114717678fb0d0453bb3c6" title="bf_div" alt="" coords="279,1152,337,1178"/>
+<area shape="rect" id="node25" href="$libbf_8h.html#abf69a9bc02b7c299bb75d172fa102d84" title="bf_sub" alt="" coords="277,1202,339,1229"/>
+<area shape="rect" id="node26" href="$libbf_8h.html#a2ab5a868db6e2d3d41c9b95e561054d3" title="bfdec_add" alt="" coords="267,1253,349,1280"/>
+<area shape="rect" id="node27" href="$libbf_8h.html#a10de87f3c9d3dc623ca131eaa468dd1b" title="bfdec_div" alt="" coords="269,874,347,901"/>
+<area shape="rect" id="node28" href="$libbf_8h.html#ac3255e37957d4be7117b1d9bfc4fcf11" title="bfdec_sub" alt="" coords="267,925,349,952"/>
+<area shape="rect" id="node30" href="$libbf_8h.html#a2afc9f7c942c27cc609877c776dd9a69" title="bfdec_mul" alt="" coords="267,1304,349,1330"/>
+</map>

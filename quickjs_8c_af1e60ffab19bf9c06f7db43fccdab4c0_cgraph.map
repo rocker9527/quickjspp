@@ -1,0 +1,11 @@
+<map id="js_date_getTimezoneOffset" name="js_date_getTimezoneOffset">
+<area shape="rect" id="node2" href="$quickjs_8c.html#adecade3bf915770c66e0a27bc3458343" title="getTimezoneOffset" alt="" coords="236,5,369,32"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#a6acbc709e59969eac6775f9b253b438f" title="JS_NewInt64" alt="" coords="252,56,353,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a5ec6b290012ff91cab9950078724eea2" title="JS_ThisTimeValue" alt="" coords="237,107,369,133"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="431,5,533,32"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="417,56,547,83"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#ab995df176086f2a2a06ab777d4c4ef28" title="JS_IsNumber" alt="" coords="431,107,533,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a8cc9386cd04cfa067d0c6bf588c6bb58" title="JS_ToFloat64" alt="" coords="431,157,533,184"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="608,132,711,159"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ab1b614ef35f1cea05da0ad4927c53118" title="JS_ToFloat64Free" alt="" coords="595,183,724,209"/>
+</map>

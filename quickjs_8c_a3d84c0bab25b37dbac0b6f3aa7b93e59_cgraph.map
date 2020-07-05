@@ -1,0 +1,12 @@
+<map id="add_eval_variables" name="add_eval_variables">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a07c499a02fee3c2a738f301111f16c2c" title="add_arguments_var" alt="" coords="187,5,323,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab2e0855c4317f8e3b05c0a091bc43a29" title="add_var" alt="" coords="397,107,465,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#afe834031fad358f2fbd7d71cfe8ac19c" title="add_func_var" alt="" coords="205,56,305,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a237c9785e84b9382c476ee0868edb117" title="add_var_this" alt="" coords="207,107,303,133"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a5067e8cf3633f10ec12c2f3ee9134c85" title="get_closure_var" alt="" coords="197,208,312,235"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="712,88,809,115"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="711,151,811,177"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#afa610f3175e9cb11fdceac95071099b5" title="js_resize_array" alt="" coords="705,213,816,240"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a4671a759c33274b073d0578ac62261e0" title="get_closure_var2" alt="" coords="371,195,492,221"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a9f64fb61a20cee1cad0eb2680624e341" title="add_closure_var" alt="" coords="540,176,657,203"/>
+</map>

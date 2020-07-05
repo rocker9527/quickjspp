@@ -1,0 +1,31 @@
+<map id="JS_ReadArray" name="JS_ReadArray">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a236b90efd249cb2775e66b12d53cab5e" title="BC_add_object_ref" alt="" coords="644,415,777,442"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a79e9250c5e2b097c9655cbc8a75ba923" title="bc_get_leb128" alt="" coords="657,618,764,644"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="628,212,793,239"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="1081,288,1185,315"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="1076,567,1191,594"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="1076,60,1191,87"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a12aed667595f49667e0095f0a028e0d4" title="JS_DefinePropertyValueUint32" alt="" coords="160,618,363,644"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#ad4ba09e4c7ab9f28c144182e1aacf1f6" title="JS_NewArray" alt="" coords="210,668,313,695"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a12a827f44f5bca80c6eb2c7d890460f4" title="JS_PreventExtensions" alt="" coords="633,60,788,87"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="192,744,331,771"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad349303e811cfcab407ed0cd5ff20690" title="BC_add_object_ref1" alt="" coords="865,415,1005,442"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aec90fdacca60889202841e53258d6363" title="bc_read_error_end" alt="" coords="870,922,999,948"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a930fdff715d46df68de392095deb7d79" title="get_leb128" alt="" coords="892,618,977,644"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="869,314,1001,340"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="1082,1124,1185,1151"/>
+<area shape="rect" id="node13" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="1083,1226,1184,1252"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a7be64afafb067c71764032c0708d7aa3" title="js_proxy_preventExtensions" alt="" coords="841,60,1028,87"/>
+<area shape="rect" id="node19" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="431,1023,560,1050"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#acd5d73f58a821266896a76426d7c110e" title="bc_get_sleb128" alt="" coords="654,922,767,948"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#acde90ec09be2051ca056c973ac9c2a38" title="bc_get_u64" alt="" coords="666,972,755,999"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a8ea895574dd7a1e1dc16c6fe2e84e129" title="bc_get_u8" alt="" coords="669,1023,752,1050"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#af23ec7c9970ceb4671c59da7abd4b078" title="js_check_stack_overflow" alt="" coords="411,1226,580,1252"/>
+<area shape="rect" id="node24" href="$quickjs_8h.html#a93abffa925714e249a6aa2f4ae7900f6" title="JS_NewBool" alt="" coords="446,618,545,644"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a1cd7ba0345848b691e0f644694fdb55d" title="JS_ReadArrayBuffer" alt="" coords="424,719,567,746"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a8fce6f70a6fc880eabcdb9883e3753f2" title="JS_ReadDate" alt="" coords="443,415,547,442"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a367627778ac537f4bb1f0fd07a2dee1b" title="JS_ReadFunctionTag" alt="" coords="421,770,569,796"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a21c7b14be807f7ce7f71c19e2e80380c" title="JS_ReadModule" alt="" coords="436,972,555,999"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#ad0e3230c3896c2048283a9302f184fb4" title="JS_ReadObjectTag" alt="" coords="427,466,563,492"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#aa329df3dbab623ec017b77cb77bcce2f" title="JS_ReadObjectValue" alt="" coords="422,516,569,543"/>
+</map>

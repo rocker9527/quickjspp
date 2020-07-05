@@ -1,0 +1,11 @@
+<map id="dbuf_put_sleb128" name="dbuf_put_sleb128">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a27f947bd87f87a0672cb81a01add8a02" title="bc_put_sleb128" alt="" coords="195,91,308,117"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ac8f4450aa771cc138f5fd25086f1c106" title="compute_pc2line_info" alt="" coords="177,160,325,187"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="373,81,512,108"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aba35628e2e963dca8fa201e6708046d6" title="JS_WriteArray" alt="" coords="578,5,685,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a3da261d6aeb1d35f3fb47a0076752a57" title="JS_WriteObjectTag" alt="" coords="563,56,699,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab24f0a3286c69433ab7e48dcc39c36cb" title="JS_WriteTypedArray" alt="" coords="560,107,703,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a431ceb41084feaa6af4e466b8b772ab1" title="JS_WriteObject2" alt="" coords="571,157,692,184"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ad0d311d4ce409584384f835f1a3e185a" title="resolve_labels" alt="" coords="390,197,495,224"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="567,232,695,259"/>
+</map>

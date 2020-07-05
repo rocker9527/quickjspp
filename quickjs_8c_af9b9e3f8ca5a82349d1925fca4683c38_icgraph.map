@@ -1,0 +1,18 @@
+<map id="dbuf_put_leb128" name="dbuf_put_leb128">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5c417bcd8453a3ab8f4ced37e8f86bf2" title="bc_put_leb128" alt="" coords="179,230,286,257"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ac8f4450aa771cc138f5fd25086f1c106" title="compute_pc2line_info" alt="" coords="360,534,508,561"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a6adbc9d495ea79b1764fc21ed895e636" title="dbuf_put_sleb128" alt="" coords="171,483,295,510"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a55f34a1bb7e361c23cb8139c100a615f" title="bc_put_atom" alt="" coords="385,331,483,358"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a3da261d6aeb1d35f3fb47a0076752a57" title="JS_WriteObjectTag" alt="" coords="581,331,717,358"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="773,230,912,257"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aba35628e2e963dca8fa201e6708046d6" title="JS_WriteArray" alt="" coords="978,255,1085,282"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab24f0a3286c69433ab7e48dcc39c36cb" title="JS_WriteTypedArray" alt="" coords="960,205,1103,231"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a0c946fdd3a6def82765db148f99b8fba" title="JS_WriteString" alt="" coords="379,179,489,206"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a91942742587df191fbf0f17a2ede99ef" title="JS_WriteObjectAtoms" alt="" coords="573,230,725,257"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#aded409755b8a76b40d57ec5fbe8d9653" title="JS_WriteFunctionTag" alt="" coords="575,27,723,54"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#aa1abbd3f9bc2fb523e3ff45f58fe42ab" title="JS_WriteArrayBuffer" alt="" coords="578,78,721,105"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a7d118830f69bffb6590c82bd3c077ac5" title="JS_WriteSharedArrayBuffer" alt="" coords="343,129,525,155"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#ad0d311d4ce409584384f835f1a3e185a" title="resolve_labels" alt="" coords="597,534,702,561"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="779,534,907,561"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a27f947bd87f87a0672cb81a01add8a02" title="bc_put_sleb128" alt="" coords="377,483,491,510"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="math_mod" name="math_mod">
+<area shape="rect" id="node2" href="$quickjs_8c.html#af947cce291c0879ea04c45f257d7e540" title="get_date_fields" alt="" coords="136,81,247,108"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#acbfcb88375d84711233f4daf89b0c587" title="set_date_fields" alt="" coords="136,157,247,184"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a937f8b17cb6d260cec8239dfb462035e" title="get_date_field" alt="" coords="299,5,401,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a12803d7cccf6345067677bd4d25287ed" title="set_date_field" alt="" coords="299,107,401,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab522181d975cc7949088c8ff67fedde0" title="get_date_string" alt="" coords="295,56,405,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aea694f707706fc250d38365486dc8c96" title="js_date_setYear" alt="" coords="463,107,579,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a7e4e02ec8849f3beaf28dc0613bb4016" title="js_date_constructor" alt="" coords="453,157,589,184"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a012f5a8b9132f7bf7eb8249bdc78b8e2" title="js_Date_UTC" alt="" coords="299,259,401,285"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ac2ddbbd09d32a6d9a4b7530d7f68c6f0" title="js_Date_parse" alt="" coords="297,157,403,184"/>
+</map>

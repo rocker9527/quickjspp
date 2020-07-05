@@ -1,0 +1,11 @@
+<map id="JS_ThrowError2" name="JS_ThrowError2">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a1b110b017211230b8b6310e853cd2b54" title="JS_ThrowError" alt="" coords="169,195,279,221"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a014abd680db53ab89cb133345742a59c" title="__attribute__" alt="" coords="327,195,424,221"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aeb73aae9c3ad7daaf7646e3f2f89245a" title="set_array_length" alt="" coords="479,195,598,221"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="653,144,811,171"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aee75cc1546e19479e3ccda58f3b50a96" title="JS_SetPropertyValue" alt="" coords="859,195,1005,221"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="1053,195,1185,221"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a638e637d492ee889691691baba33c4bd" title="JS_SetPropertyGeneric" alt="" coords="1233,43,1392,69"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a1fdb56277638da2aef63b9be0c12895f" title="js_string_define_own\l_property" alt="" coords="1241,263,1385,305"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad5565bb5cfd5321f181573257f3b0c91" title="JS_CreateProperty" alt="" coords="472,93,605,120"/>
+</map>

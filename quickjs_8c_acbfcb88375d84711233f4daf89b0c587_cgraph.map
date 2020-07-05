@@ -1,0 +1,8 @@
+<map id="set_date_fields" name="set_date_fields">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3f5def6f020bd1c429735f0b1d079b5e" title="days_from_year" alt="" coords="173,5,288,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a021e07d41b6d7239b3b44e7cbdff7a15" title="days_in_year" alt="" coords="181,56,280,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#adecade3bf915770c66e0a27bc3458343" title="getTimezoneOffset" alt="" coords="164,107,297,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a5fe9e1898e97028fbd772ebc1e914ba8" title="math_mod" alt="" coords="189,157,272,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a478ea24cf629522a55e209b2619334c7" title="time_clip" alt="" coords="193,208,268,235"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad1e54b2564697a7a9d7838321308dd54" title="floor_div" alt="" coords="345,5,416,32"/>
+</map>

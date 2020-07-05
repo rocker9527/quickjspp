@@ -1,0 +1,6 @@
+<map id="qjs::Context::eval" name="qjs::Context::eval">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a8f9200abd5af97fd0411fe053cb021e0" title="JS_Eval" alt="" coords="204,5,275,32"/>
+<area shape="rect" id="node4" href="$classqjs_1_1Value.html#a8e2a5be6c89f30cee044b884e30bf819" title="Use context.newValue(val) instead. " alt="" coords="179,56,300,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a0800e3e7b9763c0dddb2f3f85df25635" title="JS_EvalInternal" alt="" coords="348,5,463,32"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="348,56,463,83"/>
+</map>

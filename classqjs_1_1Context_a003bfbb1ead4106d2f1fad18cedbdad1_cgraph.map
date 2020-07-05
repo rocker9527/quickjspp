@@ -1,0 +1,10 @@
+<map id="qjs::Context::evalFile" name="qjs::Context::evalFile">
+<area shape="rect" id="node2" href="$classqjs_1_1Context.html#aeafa4cad50424999587a30d7d3994251" title="qjs::Context::eval" alt="" coords="200,31,325,57"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="403,119,465,145"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#a529207225a77f71253f17893e1e6dffb" title="js_load_file" alt="" coords="219,132,306,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a8f9200abd5af97fd0411fe053cb021e0" title="JS_Eval" alt="" coords="399,5,469,32"/>
+<area shape="rect" id="node5" href="$classqjs_1_1Value.html#a8e2a5be6c89f30cee044b884e30bf819" title="Use context.newValue(val) instead. " alt="" coords="373,56,495,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a0800e3e7b9763c0dddb2f3f85df25635" title="JS_EvalInternal" alt="" coords="543,5,657,32"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="543,56,657,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="562,119,638,145"/>
+</map>

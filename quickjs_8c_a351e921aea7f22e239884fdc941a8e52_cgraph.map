@@ -1,0 +1,19 @@
+<map id="js_dataview_getValue" name="js_dataview_getValue">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="445,150,575,176"/>
+<area shape="rect" id="node3" href="$cutils_8h.html#a86b872249d4bcf1f6b08c4af388f1d3c" title="bswap16" alt="" coords="263,48,337,75"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#acc2d0d790271933eb5f1b1b70edb98ba" title="bswap32" alt="" coords="263,99,337,126"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#a099a2e37a35e9b2fe832c74cdeadfe2c" title="bswap64" alt="" coords="263,150,337,176"/>
+<area shape="rect" id="node6" href="$cutils_8h.html#ad587834d17e95461893d59661e5e9676" title="get_u16" alt="" coords="266,200,334,227"/>
+<area shape="rect" id="node7" href="$cutils_8h.html#a941262a5f72fda2ec43ae7911e97a0dc" title="get_u32" alt="" coords="266,251,334,278"/>
+<area shape="rect" id="node8" href="$cutils_8h.html#abd459f86984783206f7317582511f8db" title="get_u64" alt="" coords="266,302,334,328"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="459,378,561,404"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a88259aa0da61ac754402c64ccecee116" title="JS_NewUint32" alt="" coords="245,352,355,379"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a033dd3ebd29c4eb9f0baff1dd0fec0b1" title="JS_ThrowTypeErrorDetached\lArrayBuffer" alt="" coords="203,454,397,496"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a525bb5bdbab2566313d9bcd876838d9d" title="JS_ToBool" alt="" coords="257,520,343,547"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#ad52f50dfe0e0e4aeae7003b97c4c0765" title="JS_ToIndex" alt="" coords="254,571,346,598"/>
+<area shape="rect" id="node13" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="639,520,741,547"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a2bf30c9cddfe98a32535843202495069" title="JS_ToBoolFree" alt="" coords="454,470,566,496"/>
+<area shape="rect" id="node15" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="638,470,742,496"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#aee6a60a9e9f3c0d9827d5cb0e15c23b4" title="JS_ToInt64Sat" alt="" coords="455,571,565,598"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a8c94da482e7e46bf333be67ff97e58c1" title="JS_ToInt64SatFree" alt="" coords="623,571,757,598"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="bf_const_pi" name="bf_const_pi">
+<area shape="rect" id="node2" href="$libbf_8c.html#a25b9653cbfca557499e786f8d2a7eb2e" title="bf_const_pi_signed" alt="" coords="143,223,277,249"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#afad3b4ae5f29e7af0b533bb452a4f36a" title="bf_const_get" alt="" coords="512,7,609,33"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#a11d2dea6becda91c288fd883eefc8e5c" title="bf_const_pi_internal" alt="" coords="325,248,464,275"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#abacc1410890af049e02ebd788364ac48" title="bf_init" alt="" coords="907,311,964,337"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#abd4ca8358212228a53981a32a10286b5" title="bf_round" alt="" coords="661,83,733,109"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#ae019ee8073f4359da157d3b1e5fdba7e" title="bf_set" alt="" coords="667,32,726,59"/>
+<area shape="rect" id="node8" href="$libbf_8h.html#a17dc09166f82ffa408f54a2edc4d7855" title="bf_add" alt="" coords="666,513,727,540"/>
+<area shape="rect" id="node9" href="$libbf_8h.html#a2b9d906b21e903f2f7f1c9044674ab7d" title="bf_delete" alt="" coords="784,260,859,287"/>
+<area shape="rect" id="node10" href="$libbf_8h.html#a030665e68e114717678fb0d0453bb3c6" title="bf_div" alt="" coords="532,108,589,135"/>
+<area shape="rect" id="node11" href="$libbf_8h.html#ac290278d0c37a0e7786873f98aadba47" title="bf_mul" alt="" coords="791,412,852,439"/>
+<area shape="rect" id="node12" href="$libbf_8h.html#acee0d550162528b5ca5513d4479549c2" title="bf_mul_ui" alt="" coords="657,311,736,337"/>
+<area shape="rect" id="node13" href="$libbf_8h.html#a2378f025beace5741c19bf995c2971d3" title="bf_set_ui" alt="" coords="784,463,859,489"/>
+<area shape="rect" id="node14" href="$libbf_8h.html#a1a8b9ac1fea38b97fc6be8663ce9e867" title="bf_sqrt" alt="" coords="529,57,592,84"/>
+<area shape="rect" id="node15" href="$libbf_8c.html#a81e50b3d7e7a931a93d6ea7e1d630631" title="chud_bs" alt="" coords="525,361,596,388"/>
+</map>

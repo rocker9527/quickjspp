@@ -1,0 +1,5 @@
+<map id="year_from_days" name="year_from_days">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3f5def6f020bd1c429735f0b1d079b5e" title="days_from_year" alt="" coords="168,5,283,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad1e54b2564697a7a9d7838321308dd54" title="floor_div" alt="" coords="331,31,401,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a021e07d41b6d7239b3b44e7cbdff7a15" title="days_in_year" alt="" coords="176,107,275,133"/>
+</map>

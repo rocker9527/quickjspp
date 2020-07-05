@@ -1,0 +1,5 @@
+<map id="bc_get_buf" name="bc_get_buf">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ab64e04b510d4c4073aa468fc0a3ac0b1" title="JS_ReadFunctionBytecode" alt="" coords="140,5,321,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a367627778ac537f4bb1f0fd07a2dee1b" title="JS_ReadFunctionTag" alt="" coords="369,31,517,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="565,31,704,57"/>
+</map>

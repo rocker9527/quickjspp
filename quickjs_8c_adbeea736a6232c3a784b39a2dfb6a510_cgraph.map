@@ -1,0 +1,9 @@
+<map id="js_atomics_op" name="js_atomics_op">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ab81c18658906074980c65ae90e2ca5f0" title="js_atomics_get_ptr" alt="" coords="160,63,292,90"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a033dd3ebd29c4eb9f0baff1dd0fec0b1" title="JS_ThrowTypeErrorDetached\lArrayBuffer" alt="" coords="340,5,535,47"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="387,143,488,170"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#a88259aa0da61ac754402c64ccecee116" title="JS_NewUint32" alt="" coords="171,165,281,191"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#aa032ee323127468119b3dd2bb1452680" title="JS_ToUint32" alt="" coords="177,215,275,242"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad52f50dfe0e0e4aeae7003b97c4c0765" title="JS_ToIndex" alt="" coords="391,71,483,98"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aee6a60a9e9f3c0d9827d5cb0e15c23b4" title="JS_ToInt64Sat" alt="" coords="583,71,692,98"/>
+</map>

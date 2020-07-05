@@ -1,0 +1,31 @@
+<map id="js_date_toJSON" name="js_date_toJSON">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="176,587,271,614"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="923,182,1027,209"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="735,917,849,943"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a710289a14c2810467e5b448d3c28bd55" title="JS_ToObject" alt="" coords="533,207,631,234"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a1ca9cdb1fa2ffc3e6506e92b200e490f" title="JS_IsFunction" alt="" coords="739,1221,845,1247"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a04f589361a4fbc30d997402e92a50de2" title="JS_GetPropertyStr" alt="" coords="323,1195,455,1222"/>
+<area shape="rect" id="node28" href="$quickjs_8h.html#ab995df176086f2a2a06ab777d4c4ef28" title="JS_IsNumber" alt="" coords="172,1221,275,1247"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#a8cc9386cd04cfa067d0c6bf588c6bb58" title="JS_ToFloat64" alt="" coords="172,422,275,449"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a2b8df609710fa689dd50b4bd18df2493" title="JS_ToPrimitive" alt="" coords="333,1069,444,1095"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="333,587,444,614"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="533,714,631,741"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a877fcb7651d95b411ce70e62b7f4a1f0" title="__JS_AtomFromUInt32" alt="" coords="503,765,661,791"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="517,815,647,842"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a74547db03bf739a52c83a326b32db997" title="add_property" alt="" coords="533,866,631,893"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a4956f45ffd2849b96dc051277264f87a" title="build_arg_list" alt="" coords="533,359,631,386"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ac864482356b3efc2d0b0a509fcfa4c7c" title="free_arg_list" alt="" coords="745,258,839,285"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="741,385,843,411"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a61c8dfb5e807af1b6ff7d8ca61576dda" title="build_backtrace" alt="" coords="525,106,639,133"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="709,106,875,133"/>
+<area shape="rect" id="node15" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="741,157,843,183"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a344894112559c2ba75043fd10bcfa02f" title="close_lexical_var" alt="" coords="521,613,643,639"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a1782043fce951bd4f0d91c7796b31e24" title="close_var_refs" alt="" coords="529,461,635,487"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a9e7b4bccf927d811b0f99b40b08c0472" title="free_var_ref" alt="" coords="537,511,627,538"/>
+<area shape="rect" id="node19" href="$cutils_8h.html#a7c82a3ee025fee89db5b11ff5b7691b8" title="get_i16" alt="" coords="550,562,614,589"/>
+<area shape="rect" id="node20" href="$cutils_8h.html#a288ee4e688944e23500af2ecc813c306" title="get_i8" alt="" coords="553,663,611,690"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="531,1170,633,1197"/>
+<area shape="rect" id="node22" href="$quickjs_8h.html#a89b7c8686c7eee70b86be722ee4730ad" title="JS_GetProperty" alt="" coords="735,1018,849,1045"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#abac33881bb91f8c31106f616d81b67e8" title="JS_ToPrimitiveFree" alt="" coords="513,1069,651,1095"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#aa2ef5af1544a3012f91a80c98c326b8f" title="JS_NewAtom" alt="" coords="531,1271,633,1298"/>
+</map>

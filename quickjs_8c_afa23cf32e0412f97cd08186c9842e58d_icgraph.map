@@ -1,0 +1,15 @@
+<map id="JS_SetConstructorBit" name="JS_SetConstructorBit">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3afdbdd7b58ef7e1dcc178c362071b3d" title="JS_AddIntrinsicProxy" alt="" coords="393,5,541,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aab4130a4c3108a127681be821818528a" title="js_closure" alt="" coords="233,157,315,184"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a36322a209de4ef17f939e6d128578d7f" title="js_op_define_class" alt="" coords="207,107,341,133"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#aabd74747b51e480d80dc19914e74a3a5" title="js_proxy_constructor" alt="" coords="203,56,345,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="619,5,738,32"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="851,5,945,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="412,131,523,157"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a5d217acce00892ab2b50a1dcc1eb4cc8" title="JS_EvalFunctionInternal" alt="" coords="816,195,980,221"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="609,169,748,196"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="645,220,713,247"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="589,68,768,95"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="631,119,726,145"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a537862df2984a40ceb9be7878c497cd2" title="js_proxy_revocable" alt="" coords="400,56,535,83"/>
+</map>

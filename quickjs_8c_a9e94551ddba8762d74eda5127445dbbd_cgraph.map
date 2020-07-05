@@ -1,0 +1,9 @@
+<map id="get_proxy_method" name="get_proxy_method">
+<area shape="rect" id="node2" href="$quickjs_8c.html#af23ec7c9970ceb4671c59da7abd4b078" title="js_check_stack_overflow" alt="" coords="193,5,363,32"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="221,56,335,83"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a149f24b67e745bad93573b3b4c80db4c" title="JS_IsNull" alt="" coords="239,107,317,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a8353f635fb8a20553c08db8cf38c17e0" title="JS_ThrowStackOverflow" alt="" coords="195,157,361,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a199d64ccbee0a90d93e1ad12745417f6" title="JS_ThrowTypeErrorRevoked\lProxy" alt="" coords="183,209,373,250"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#acad70023f36797496683e579a4d60461" title="js_get_stack_pointer" alt="" coords="421,5,564,32"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="444,157,541,184"/>
+</map>

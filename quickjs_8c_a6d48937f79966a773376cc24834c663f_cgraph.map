@@ -1,0 +1,15 @@
+<map id="js_update_property_flags" name="js_update_property_flags">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3dd8e78607dbc729614deacf55901b95" title="js_shape_prepare_update" alt="" coords="185,81,356,108"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a643df594b75933007bcdbb071b5ea8c5" title="get_shape_prop" alt="" coords="733,5,847,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a8e34657169da77ae6a386311351ed3de" title="js_clone_shape" alt="" coords="555,208,667,235"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a3a9f27520d96cf58aa5bd7359e9cddee" title="js_free_shape" alt="" coords="404,56,507,83"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#ae5e76f4be6214208cc91f10a192fc810" title="js_shape_hash_unlink" alt="" coords="715,56,865,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a9780456a71703c53244b88831bc8fb7a" title="add_gc_object" alt="" coords="737,309,843,336"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7da0cfa6f27af0e1b9599d7f359edbe2" title="get_alloc_from_shape" alt="" coords="715,107,865,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a8b6c89e0f589df709eb31a92b7fac32a" title="get_shape_from_alloc" alt="" coords="715,360,865,387"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ab54e821a9b1b55dc16c4494bd410b698" title="get_shape_size" alt="" coords="733,411,847,437"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="740,157,840,184"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="739,208,841,235"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a78b7f6b85f2739b551ff54f16156128b" title="js_malloc" alt="" coords="751,259,829,285"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a6f921a6312ada5c7da7b485e24d37f54" title="js_free_shape0" alt="" coords="555,56,666,83"/>
+</map>

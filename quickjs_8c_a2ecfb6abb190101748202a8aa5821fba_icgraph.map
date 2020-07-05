@@ -1,0 +1,6 @@
+<map id="js_parse_delete" name="js_parse_delete">
+<area shape="rect" id="node2" href="$quickjs_8c.html#af99673e7430294cf15dc24dc5dac227f" title="js_parse_unary" alt="" coords="167,55,277,81"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab1c84e1eb8a5f06b9257c3c9b5a6f024" title="js_parse_expr_binary" alt="" coords="325,55,471,81"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a2af8c0e05d949d0ae23d94c8e73e5494" title="js_parse_logical_and_or" alt="" coords="519,29,680,56"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a2a6a8f6738ae03f046617522b9781245" title="js_parse_coalesce_expr" alt="" coords="728,55,891,81"/>
+</map>

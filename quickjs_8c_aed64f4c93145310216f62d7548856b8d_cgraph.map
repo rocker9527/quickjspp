@@ -1,0 +1,16 @@
+<map id="js_array_of" name="js_array_of">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a28704096ee67c5b0ab1bd60ce050e36a" title="JS_CallConstructor" alt="" coords="171,279,307,306"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="807,78,910,105"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="807,27,911,54"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="801,154,916,181"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ad4ba09e4c7ab9f28c144182e1aacf1f6" title="JS_NewArray" alt="" coords="807,406,910,433"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="967,355,1068,382"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a88259aa0da61ac754402c64ccecee116" title="JS_NewUint32" alt="" coords="803,355,914,382"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#aa44ddb5f94a842c9c5152a17032de580" title="JS_CreateDataPropertyUint32" alt="" coords="140,507,339,534"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#afa39b15865cb50fc2383e76e33b2de1a" title="JS_IsConstructor" alt="" coords="177,558,301,585"/>
+<area shape="rect" id="node15" href="$quickjs_8h.html#af763b173e78debf2075670ca2c128a30" title="JS_SetProperty" alt="" coords="182,609,297,635"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="387,254,565,281"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="627,254,737,281"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a246e337d6566552736209730827c0871" title="js_poll_interrupts" alt="" coords="799,305,919,331"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a93dbf502b17d1328c524401335f60499" title="js_create_from_ctor" alt="" coords="613,78,751,105"/>
+</map>

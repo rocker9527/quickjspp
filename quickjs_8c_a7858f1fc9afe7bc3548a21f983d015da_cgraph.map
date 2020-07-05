@@ -1,0 +1,29 @@
+<map id="resolve_scope_var" name="resolve_scope_var">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a07c499a02fee3c2a738f301111f16c2c" title="add_arguments_var" alt="" coords="407,80,543,107"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="761,257,861,284"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#afe834031fad358f2fbd7d71cfe8ac19c" title="add_func_var" alt="" coords="425,232,525,259"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a4779c8b73a4a772f6f1535c7f661c93b" title="can_opt_put_global\l_ref_value" alt="" coords="204,621,339,662"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a5b51cf5eccb40dc59d44e2a1ea5a1f4e" title="can_opt_put_ref_value" alt="" coords="195,687,348,713"/>
+<area shape="rect" id="node10" href="$cutils_8h.html#a31a6b9f8517a73d45e976d8a026e964e" title="dbuf_put_u16" alt="" coords="425,587,525,613"/>
+<area shape="rect" id="node13" href="$cutils_8h.html#a8ba08f82c43549fcb3c939229498354d" title="dbuf_put_u32" alt="" coords="425,435,525,461"/>
+<area shape="rect" id="node14" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="435,485,514,512"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#aa26b47ba93d2f7737148d89fa85ba21f" title="find_arg" alt="" coords="441,763,509,789"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a17f57e818da8e28af51d672f9dd1e02b" title="find_var" alt="" coords="237,788,305,815"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a5067e8cf3633f10ec12c2f3ee9134c85" title="get_closure_var" alt="" coords="214,29,329,56"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a4671a759c33274b073d0578ac62261e0" title="get_closure_var2" alt="" coords="414,29,535,56"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a169ce004a01995f262e73c34f866d5a9" title="get_with_scope_opcode" alt="" coords="190,839,353,865"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a217c750ab1ff788ada118a7f6736cb6e" title="new_label_fd" alt="" coords="222,889,321,916"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#adeab43cd3441f3747a2af76709a4dd69" title="optimize_scope_make\l_global_ref" alt="" coords="195,351,347,393"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a7c152c8f95a5338351e7f99447d6aea4" title="optimize_scope_make_ref" alt="" coords="184,519,359,545"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a0b2f53f86b03dc687031b5092d8069cf" title="resolve_pseudo_var" alt="" coords="202,181,341,208"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a337071c33fd0684a2b132b17f536f35c" title="update_label" alt="" coords="224,940,319,967"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab2e0855c4317f8e3b05c0a091bc43a29" title="add_var" alt="" coords="615,181,683,208"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="763,131,860,157"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#afa610f3175e9cb11fdceac95071099b5" title="js_resize_array" alt="" coords="756,181,867,208"/>
+<area shape="rect" id="node11" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="613,485,685,512"/>
+<area shape="rect" id="node12" href="$cutils_8h.html#ac0b9ce26415947e972d6781d9f2fb11b" title="dbuf_realloc" alt="" coords="765,485,857,512"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a9f64fb61a20cee1cad0eb2680624e341" title="add_closure_var" alt="" coords="591,131,708,157"/>
+<area shape="rect" id="node23" href="$cutils_8h.html#a3b6aba81e32ed70a2a851744e5a9cc9c" title="put_u32" alt="" coords="441,384,509,411"/>
+<area shape="rect" id="node25" href="$cutils_8h.html#ae92485345dfbbc7e4118dac3d514ad76" title="put_u16" alt="" coords="441,536,509,563"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a237c9785e84b9382c476ee0868edb117" title="add_var_this" alt="" coords="427,181,523,208"/>
+</map>

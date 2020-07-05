@@ -1,0 +1,9 @@
+<map id="js_get_script_or_module_name" name="js_get_script_or_module_name">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a50e94675d1c4cf67c88e72169ea3c21a" title="js_dynamic_import" alt="" coords="256,81,387,108"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a2c15f4e9fa1344bb2d7caca8e21b34f4" title="js_import_meta" alt="" coords="266,132,377,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="435,107,545,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="613,5,752,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="649,56,717,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="593,107,772,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="635,157,730,184"/>
+</map>

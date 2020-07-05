@@ -1,0 +1,31 @@
+<map id="js_promise_then_finally_func" name="js_promise_then_finally_func">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="273,676,341,703"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="983,245,1087,272"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="820,1233,935,1260"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#ad31f7a1d61971bfacede26cef8204a91" title="JS_InvokeFree" alt="" coords="427,1360,537,1387"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a28c0ccdd26317bc38d0a693f1dffe4dc" title="js_new_promise_capability" alt="" coords="593,1157,772,1184"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#ac048b0ff95f3f0cb7c189e87f74df753" title="JS_NewCFunctionData" alt="" coords="603,1309,763,1336"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#ac15a82ecdea657381f26bf441ddc851f" title="js_promise_finally\l_thrower" alt="" coords="419,86,545,127"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a0824d4a55c9b28ff731b93a2262b4948" title="js_promise_finally\l_value_thunk" alt="" coords="244,411,371,453"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="427,676,537,703"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="634,499,731,525"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a877fcb7651d95b411ce70e62b7f4a1f0" title="__JS_AtomFromUInt32" alt="" coords="603,549,762,576"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="618,600,747,627"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a74547db03bf739a52c83a326b32db997" title="add_property" alt="" coords="634,752,731,779"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a4956f45ffd2849b96dc051277264f87a" title="build_arg_list" alt="" coords="633,296,732,323"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ac864482356b3efc2d0b0a509fcfa4c7c" title="free_arg_list" alt="" coords="831,245,924,272"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="826,347,929,373"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a61c8dfb5e807af1b6ff7d8ca61576dda" title="build_backtrace" alt="" coords="626,1005,739,1032"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a344894112559c2ba75043fd10bcfa02f" title="close_lexical_var" alt="" coords="621,347,744,373"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a1782043fce951bd4f0d91c7796b31e24" title="close_var_refs" alt="" coords="629,1056,736,1083"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a9e7b4bccf927d811b0f99b40b08c0472" title="free_var_ref" alt="" coords="637,1107,728,1133"/>
+<area shape="rect" id="node17" href="$cutils_8h.html#a7c82a3ee025fee89db5b11ff5b7691b8" title="get_i16" alt="" coords="651,397,715,424"/>
+<area shape="rect" id="node18" href="$cutils_8h.html#a288ee4e688944e23500af2ecc813c306" title="get_i8" alt="" coords="654,448,711,475"/>
+<area shape="rect" id="node19" href="$cutils_8h.html#ad587834d17e95461893d59661e5e9676" title="get_u16" alt="" coords="649,803,717,829"/>
+<area shape="rect" id="node20" href="$cutils_8h.html#a941262a5f72fda2ec43ae7911e97a0dc" title="get_u32" alt="" coords="649,853,717,880"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a37fe43b6649456a848bd54846450b995" title="get_var_ref" alt="" coords="639,904,726,931"/>
+<area shape="rect" id="node22" href="$list_8h.html#a663527a4d757540b2177bef0db1ce5c0" title="init_list_head" alt="" coords="633,955,732,981"/>
+<area shape="rect" id="node23" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="820,803,935,829"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a3ae8a83da71ef07d6e858d172d9c5a81" title="JS_Throw" alt="" coords="642,93,723,120"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#ad09ec172570d05d2166ed3069f85c7b5" title="JS_Invoke" alt="" coords="641,1360,725,1387"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="JSResolveEntry" name="JSResolveEntry">
+<area shape="rect" id="node2" href="$structJSModuleDef.html" title="JSModuleDef" alt="" coords="847,185,948,212"/>
+<area shape="rect" id="node8" href="$structJSReqModuleEntry.html" title="JSReqModuleEntry" alt="" coords="1113,211,1248,237"/>
+<area shape="rect" id="node3" href="$structlist__head.html" title="list_head" alt="" coords="577,59,652,85"/>
+<area shape="rect" id="node4" href="$structJSValue.html" title="JSValue" alt="" coords="171,135,241,161"/>
+<area shape="rect" id="node11" href="$structJSVarRef.html" title="JSVarRef" alt="" coords="332,160,411,187"/>
+<area shape="rect" id="node5" href="$unionJSValueUnion.html" title="JSValueUnion" alt="" coords="5,135,111,161"/>
+<area shape="rect" id="node6" href="$structJSRefCountHeader.html" title="JSRefCountHeader" alt="" coords="547,211,683,237"/>
+<area shape="rect" id="node7" href="$structJSStarExportEntry.html" title="JSStarExportEntry" alt="" coords="549,261,680,288"/>
+<area shape="rect" id="node9" href="$structJSImportEntry.html" title="JSImportEntry" alt="" coords="561,312,668,339"/>
+<area shape="rect" id="node10" href="$structJSExportEntry.html" title="JSExportEntry" alt="" coords="561,160,668,187"/>
+</map>

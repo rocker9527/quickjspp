@@ -1,0 +1,7 @@
+<map id="compact_properties" name="compact_properties">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a2b9a2014cb970af5b5b7dde00afbdffa" title="delete_property" alt="" coords="189,31,300,57"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aeb73aae9c3ad7daaf7646e3f2f89245a" title="set_array_length" alt="" coords="355,5,473,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a2b88ed25233c441cbed7b0a027c9ee2f" title="JS_DeleteProperty" alt="" coords="348,56,480,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="708,5,865,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="528,31,660,57"/>
+</map>

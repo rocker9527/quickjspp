@@ -1,0 +1,11 @@
+<map id="cr_default_realloc" name="cr_default_realloc">
+<area shape="rect" id="node2" href="$libunicode_8c.html#a6fc0a36e3fd26d4b91b66cd5619be63b" title="cr_init" alt="" coords="177,119,235,145"/>
+<area shape="rect" id="node3" href="$libregexp_8c.html#a5789f2a52e48bda3437bbd0a28dae35d" title="cr_init_char_range" alt="" coords="457,195,585,221"/>
+<area shape="rect" id="node5" href="$libregexp_8c.html#ab2f98b8a2e66fd9197d2677f47ccffa8" title="re_parse_char_class" alt="" coords="1004,125,1147,152"/>
+<area shape="rect" id="node6" href="$libregexp_8c.html#a275d25528366a9d7b1c83835b41519d9" title="cr_canonicalize" alt="" coords="657,239,769,265"/>
+<area shape="rect" id="node7" href="$libregexp_8c.html#a24c5604c81a33e66906a1f43227221e8" title="parse_unicode_property" alt="" coords="633,100,793,127"/>
+<area shape="rect" id="node8" href="$libunicode_8c.html#aed9a601406b09f37aad3e07557c8b754" title="unicode_script" alt="" coords="293,93,399,120"/>
+<area shape="rect" id="node9" href="$libunicode_8c.html#a58dbb07f758bbf3de6c87a0647ec72e3" title="unicode_prop_ops" alt="" coords="283,144,409,171"/>
+<area shape="rect" id="node4" href="$libregexp_8c.html#ac654c01af0eedad21af5da6e5035f37c" title="get_class_atom" alt="" coords="841,125,956,152"/>
+<area shape="rect" id="node10" href="$libunicode_8c.html#a042c7e38726f6727a9826c4dd2c45832" title="unicode_prop" alt="" coords="472,144,571,171"/>
+</map>

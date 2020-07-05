@@ -1,0 +1,31 @@
+<map id="JS_ToBoolFree" name="JS_ToBoolFree">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa0bbf08a7e91459c68a312fba7016c6d" title="js_array_every" alt="" coords="903,66,1009,93"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a9dd41b086da4e13b3487cc9c6e2af2b8" title="js_array_find" alt="" coords="908,142,1004,169"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="435,256,545,282"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a0b8ae7efe63abc1be33d9e828d43ce8d" title="js_typed_array_find" alt="" coords="889,324,1023,350"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#af4cd70eee97bbcab2d0f2e46cf53ccd7" title="JS_IsInstanceOf" alt="" coords="896,408,1016,434"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a7e5b77a4851eee6f666581d051979392" title="js_proxy_define_own\l_property" alt="" coords="884,459,1028,500"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#acffb121a8a0ee2b735f60c1db01e79e7" title="js_proxy_delete_property" alt="" coords="873,525,1039,552"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a1bddfeab11a7cfee6bd88781073b5972" title="js_proxy_has" alt="" coords="907,577,1005,604"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a89d3c8659c2a6a62d3528b6b6794b24f" title="js_proxy_isExtensible" alt="" coords="881,630,1031,657"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a7be64afafb067c71764032c0708d7aa3" title="js_proxy_preventExtensions" alt="" coords="863,685,1049,712"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ad38b16d301e8f3661cf4c115c86511b3" title="js_proxy_set" alt="" coords="908,744,1004,770"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#ae8b32777df50bb192c19840adc4d32a1" title="js_proxy_setPrototypeOf" alt="" coords="873,812,1039,838"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a4bc21a37de9a904eb78a57afc1067eb9" title="js_has_unscopable" alt="" coords="188,256,321,282"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a34780713146b6995321c8880802b7d9d" title="js_is_regexp" alt="" coords="207,864,302,890"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a8c41d5cf05e42294d414a1ac8b069874" title="JS_isConcatSpreadable" alt="" coords="173,914,336,941"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#af06df4433030f12453c5980514fa461d" title="JS_IteratorGetCompleteValue" alt="" coords="392,306,588,333"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a44f6eee98516c994a594533cfa8618ed" title="JS_IteratorNext" alt="" coords="197,965,312,992"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a60d84dd116a9d7d912d08f298a4734dd" title="js_json_to_str" alt="" coords="203,1090,306,1117"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a343a343b16bc3c9875050e99ee0d2884" title="JS_JSONStringify" alt="" coords="425,1053,555,1080"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a26ceb6b90296d2572803b252df73cded" title="js_obj_to_desc" alt="" coords="200,1141,309,1168"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a85bd252225e0864923cb62c583892de7" title="js_regexp_get_flags" alt="" coords="185,1192,324,1218"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a41fc4304b39616e7be3500fe6ec881c2" title="js_regexp_Symbol_match" alt="" coords="169,1242,341,1269"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#a6a77bcdb9f7f18c13c108c99a198708b" title="js_regexp_Symbol_replace" alt="" coords="165,1293,344,1320"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a525bb5bdbab2566313d9bcd876838d9d" title="JS_ToBool" alt="" coords="211,1344,298,1370"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="656,205,795,232"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="691,154,759,181"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="636,256,815,282"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="678,560,773,586"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aa45afa6d2861615f29444c9614ce766a" title="js_async_from_sync\l_iterator_next" alt="" coords="885,215,1027,256"/>
+</map>

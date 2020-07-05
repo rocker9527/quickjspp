@@ -1,0 +1,9 @@
+<map id="get_first_lexical_var" name="get_first_lexical_var">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3376d6ef6fabfbe6070a4e13cb281974" title="pop_scope" alt="" coords="192,180,277,207"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a00eb789430243c24dab4a63ad6a79653" title="js_parse_class" alt="" coords="325,54,435,80"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ac188b916dd086803591a67de7e7a85f6" title="js_parse_for_in_of" alt="" coords="680,155,808,182"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a9d844c16dcc71701436848074337d32c" title="js_parse_statement\l_or_decl" alt="" coords="856,169,992,210"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#acc0cac53be5317d9cab6a79afcd7da48" title="js_parse_block" alt="" coords="1040,176,1149,203"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#acdcc62310b4f6f73fa7bc7267b18b1d4" title="js_parse_postfix_expr" alt="" coords="483,54,632,80"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a498e1d5c7de1b59c1630e9847cde1e41" title="js_parse_export" alt="" coords="500,104,615,131"/>
+</map>

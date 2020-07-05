@@ -1,0 +1,7 @@
+<map id="get_closure_var" name="get_closure_var">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a4671a759c33274b073d0578ac62261e0" title="get_closure_var2" alt="" coords="168,56,289,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a9f64fb61a20cee1cad0eb2680624e341" title="add_closure_var" alt="" coords="337,56,455,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="509,5,607,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="508,56,608,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#afa610f3175e9cb11fdceac95071099b5" title="js_resize_array" alt="" coords="503,107,613,133"/>
+</map>

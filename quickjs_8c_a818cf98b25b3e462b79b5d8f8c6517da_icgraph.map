@@ -1,0 +1,6 @@
+<map id="reset_weak_ref" name="reset_weak_ref">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a41a4918c15192dc3489dc3ecb3fdc24d" title="free_object" alt="" coords="164,31,251,57"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a3d1c7a8d6aa5a9ba8ea8ef2828db188a" title="free_gc_object" alt="" coords="299,31,405,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a8defed3434f60d6b5d6a7ea202cc8f9d" title="free_zero_refcount" alt="" coords="453,5,584,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#af7c53b26778d6b7e155fab5349a4585e" title="gc_free_cycles" alt="" coords="463,56,574,83"/>
+</map>

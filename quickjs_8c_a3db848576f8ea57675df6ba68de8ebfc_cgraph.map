@@ -1,0 +1,13 @@
+<map id="JS_ToNumeric" name="JS_ToNumeric">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="179,132,281,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a95c291df13743182541d687be697e59d" title="JS_ToNumericFree" alt="" coords="163,183,297,209"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a0315f23b9804563f376c47edef2967fd" title="JS_ToNumberHintFree" alt="" coords="345,183,501,209"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a40bcef4994dba57dfb34b6eed66daef0" title="js_atof" alt="" coords="587,5,649,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ae0bc4f65da64810facb2cb9e476eda2e" title="JS_FreeCString" alt="" coords="561,56,675,83"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="740,107,844,133"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="735,233,849,260"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="567,208,669,235"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a1e7f56471f8608df9405987087a56070" title="JS_ToCStringLen" alt="" coords="555,259,681,285"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#abac33881bb91f8c31106f616d81b67e8" title="JS_ToPrimitiveFree" alt="" coords="549,157,687,184"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a55c008c257c5802e77f5fec646e3ebf1" title="skip_spaces" alt="" coords="571,360,665,387"/>
+</map>

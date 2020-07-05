@@ -1,0 +1,31 @@
+<map id="js_array_reduce" name="js_array_reduce">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a59a7e992f228759bf0a56f0aae4f3cc3" title="check_function" alt="" coords="179,5,289,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="200,588,268,615"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="818,259,921,285"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="812,411,927,437"/>
+<area shape="rect" id="node15" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="1000,613,1104,640"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a710289a14c2810467e5b448d3c28bd55" title="JS_ToObject" alt="" coords="615,411,714,437"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a5f848f76409193212a44e6221e430919" title="js_get_length64" alt="" coords="608,867,721,893"/>
+<area shape="rect" id="node24" href="$quickjs_8h.html#a6acbc709e59969eac6775f9b253b438f" title="JS_NewInt64" alt="" coords="614,1171,715,1197"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a14674e74168715dc5a3a391910982e5d" title="JS_TryGetPropertyInt64" alt="" coords="364,993,527,1020"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#add71c7e0efcb1fd14572d39e2672971d" title="js_typed_array_get\l_length_internal" alt="" coords="168,1121,300,1162"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a1ca9cdb1fa2ffc3e6506e92b200e490f" title="JS_IsFunction" alt="" coords="392,5,499,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="390,588,501,615"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="616,461,713,488"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a877fcb7651d95b411ce70e62b7f4a1f0" title="__JS_AtomFromUInt32" alt="" coords="790,1373,949,1400"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="805,1171,934,1197"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a74547db03bf739a52c83a326b32db997" title="add_property" alt="" coords="616,512,713,539"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a4956f45ffd2849b96dc051277264f87a" title="build_arg_list" alt="" coords="615,259,714,285"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a61c8dfb5e807af1b6ff7d8ca61576dda" title="build_backtrace" alt="" coords="608,765,721,792"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="787,563,952,589"/>
+<area shape="rect" id="node16" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="819,841,920,868"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a344894112559c2ba75043fd10bcfa02f" title="close_lexical_var" alt="" coords="603,208,726,235"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="818,1272,921,1299"/>
+<area shape="rect" id="node19" href="$quickjs_8h.html#a89b7c8686c7eee70b86be722ee4730ad" title="JS_GetProperty" alt="" coords="812,929,927,956"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a90d6e607f6917d817c1e997bd2e6ed07" title="JS_GetPropertyValue" alt="" coords="591,1019,739,1045"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a9d6d0a9704951d01c128975e0d2213f8" title="JS_HasProperty" alt="" coords="605,613,724,640"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#aa641af3a921335927dab07dc83285917" title="JS_NewAtomInt64" alt="" coords="599,1120,731,1147"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#af894945c3459f86096c1821a0a696934" title="get_typed_array" alt="" coords="388,1095,503,1121"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#a033dd3ebd29c4eb9f0baff1dd0fec0b1" title="JS_ThrowTypeErrorDetached\lArrayBuffer" alt="" coords="348,1146,543,1187"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a869fa88a646c0a1914ec2e559b193b5c" title="typed_array_is_detached" alt="" coords="362,1212,529,1239"/>
+</map>

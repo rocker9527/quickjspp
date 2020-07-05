@@ -1,0 +1,20 @@
+<map id="js_operator_instanceof" name="js_operator_instanceof">
+<area shape="rect" id="node2" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="931,411,1035,437"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#af4cd70eee97bbcab2d0f2e46cf53ccd7" title="JS_IsInstanceOf" alt="" coords="207,283,327,309"/>
+<area shape="rect" id="node14" href="$quickjs_8h.html#a93abffa925714e249a6aa2f4ae7900f6" title="JS_NewBool" alt="" coords="759,664,858,691"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="1083,411,1201,437"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="1249,411,1385,437"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="375,372,469,399"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a89b7c8686c7eee70b86be722ee4730ad" title="JS_GetProperty" alt="" coords="751,107,866,133"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="751,157,866,184"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#a149f24b67e745bad93573b3b4c80db4c" title="JS_IsNull" alt="" coords="769,461,848,488"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#a3d68fe446df2d9c7d1900b16371bff5b" title="JS_IsObject" alt="" coords="761,411,856,437"/>
+<area shape="rect" id="node13" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="751,563,866,589"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a2bf30c9cddfe98a32535843202495069" title="JS_ToBoolFree" alt="" coords="753,613,865,640"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a1ca9cdb1fa2ffc3e6506e92b200e490f" title="JS_IsFunction" alt="" coords="755,5,862,32"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#aa0b5c1a59ff4832154e2a98d7c63a4b2" title="JS_OrdinaryIsInstanceOf" alt="" coords="517,215,687,241"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="547,411,657,437"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="757,360,860,387"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a246e337d6566552736209730827c0871" title="js_poll_interrupts" alt="" coords="749,259,869,285"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a7f82fd53b039b4e12f1addfa15d750ae" title="JS_GetPrototypeFree" alt="" coords="735,56,883,83"/>
+</map>

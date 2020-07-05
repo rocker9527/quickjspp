@@ -1,0 +1,11 @@
+<map id="js_import_meta" name="js_import_meta">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a0a31a11db1d2054a132f4879d1f3c8cc" title="js_find_loaded_module" alt="" coords="188,5,343,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a348e00fd4b934a113cb954052ec33a13" title="js_get_script_or_module_name" alt="" coords="164,56,367,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a44504e6de8f6e13870e695d360d9cd3e" title="JS_GetImportMeta" alt="" coords="199,132,331,159"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a76e95dd1ab1d7cb4b9407d2ad41ee119" title="js_class_has_bytecode" alt="" coords="415,31,573,57"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="437,81,551,108"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a884d294acbf5be675ffc760e38bd0521" title="JS_NewObjectProto" alt="" coords="423,132,565,159"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="437,183,551,209"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="443,233,545,260"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="621,132,796,159"/>
+</map>

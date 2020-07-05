@@ -1,0 +1,31 @@
+<map id="js_trigger_gc" name="js_trigger_gc">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a030c2e98b1775a7e3bdd13be1400b1fe" title="JS_NewObjectFromShape" alt="" coords="149,925,327,952"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="375,617,549,644"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#ad4ba09e4c7ab9f28c144182e1aacf1f6" title="JS_NewArray" alt="" coords="411,1233,513,1260"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a8129754877bdfb4d22f64dae5ba8e778" title="js_worker_ctor_internal" alt="" coords="613,676,769,703"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a659dc0db7e440fd6eb012d613627faa3" title="JS_NewObjectClass" alt="" coords="619,727,763,753"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a884d294acbf5be675ffc760e38bd0521" title="JS_NewObjectProto" alt="" coords="620,828,761,855"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a36322a209de4ef17f939e6d128578d7f" title="js_op_define_class" alt="" coords="861,816,995,843"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a7efb53c2f76fd5cc0e584449437ec09c" title="JS_AddIntrinsicBasicObjects" alt="" coords="832,892,1024,919"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="833,980,1023,1007"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#afc0d8ea75588216ec132a6e1655524a7" title="JS_NewObject" alt="" coords="635,929,746,956"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a21cfe4c4fc9372dc0b95b37667cff0c9" title="JS_NewCFunction3" alt="" coords="621,980,760,1007"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#ac048b0ff95f3f0cb7c189e87f74df753" title="JS_NewCFunctionData" alt="" coords="611,1132,771,1159"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#aeafb37b03b5560171754f8c4505b0f6b" title="JS_ThrowError2" alt="" coords="633,5,749,32"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a04d312757919ff6b4d79cd0c2c3e5bb2" title="js_build_arguments" alt="" coords="623,56,758,83"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a1c459034f2971c4abc3a8d6d4693ef5f" title="js_build_mapped_arguments" alt="" coords="597,107,784,133"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#aa40a5354bee3b56e05a71244910bcc78" title="build_for_in_iterator" alt="" coords="623,157,758,184"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a93dbf502b17d1328c524401335f60499" title="js_create_from_ctor" alt="" coords="622,208,759,235"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a7068f4cd630e0bb554ea300ddb389715" title="js_async_function_resolve\l_create" alt="" coords="603,259,779,301"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a6e67f3bc70778c4c816db73e18d47d03" title="js_create_module_bytecode\l_function" alt="" coords="599,325,783,366"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a8fce6f70a6fc880eabcdb9883e3753f2" title="JS_ReadDate" alt="" coords="639,391,743,417"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#ac6d5606ba25525b3a03981eefbe98e13" title="js_function_bind" alt="" coords="633,441,749,468"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#ad25358fc5ae69ab218abde24d52b7767" title="js_error_constructor" alt="" coords="622,1081,759,1108"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a57af8ddae60fbd0080e34d23ce2a04a6" title="js_aggregate_error\l_constructor" alt="" coords="626,493,755,534"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#aabd74747b51e480d80dc19914e74a3a5" title="js_proxy_constructor" alt="" coords="619,559,762,585"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a37cac335cb6abd3c24e162ad57f418f1" title="js_create_resolving\l_functions" alt="" coords="623,610,758,651"/>
+<area shape="rect" id="node27" href="$structqjs_1_1js__traits_3_01std_1_1vector_3_01T_01_4_01_4.html#a0a1cc387d5c49e5cb5ae417730d32b1c" title="qjs::js_traits\&lt; std\l::vector\&lt; T \&gt; \&gt;::wrap" alt="" coords="617,1285,764,1326"/>
+<area shape="rect" id="node28" href="$quickjs-libc_8c.html#a9caf548a60b412734dc8a40a7ebc914e" title="js_os_ttyGetWinSize" alt="" coords="618,1351,763,1377"/>
+<area shape="rect" id="node29" href="$quickjs-libc_8c.html#a0210b73e16d177f7668621a6573576aa" title="make_obj_error" alt="" coords="635,1233,746,1260"/>
+<area shape="rect" id="node30" href="$quickjs-libc_8c.html#a64270f007df853e9d2f443383d26ec60" title="js_os_readdir" alt="" coords="879,1208,977,1235"/>
+</map>

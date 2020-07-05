@@ -1,0 +1,31 @@
+<map id="JS_ToFloat64Free" name="JS_ToFloat64Free">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ae8ff05447c0d51fe277baccf616dc7c6" title="js_add_slow" alt="" coords="635,8,729,35"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a341f4d5925a607eeaad8d3cbb03e9de1" title="js_array_cmp_generic" alt="" coords="192,413,341,440"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a3c8e7fb12a7f3cf1846a36b0a7fc499f" title="js_binary_arith_slow" alt="" coords="197,464,337,491"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7e4e02ec8849f3beaf28dc0613bb4016" title="js_date_constructor" alt="" coords="414,211,550,237"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a404705cd4008db4015ea19f234721fc2" title="js_eq_slow" alt="" coords="639,59,725,85"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#afad8d7db437ba0647d2dbf77cd9769d6" title="js_number_toExponential" alt="" coords="183,515,351,541"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a7440a8b206568f2729470433d57d9a98" title="js_number_toFixed" alt="" coords="201,565,333,592"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a806a4bbff6962ecc09ab3ae101b3755a" title="js_number_toPrecision" alt="" coords="189,616,344,643"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#adf92b748274979904d269c4d3682e4dd" title="js_number_toString" alt="" coords="199,667,334,693"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#aa7214e281acc07325a3c1a70d816a1d2" title="js_post_inc_slow" alt="" coords="205,717,328,744"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ad48277f7656d161f492b5f1ff5d8c388" title="js_relational_slow" alt="" coords="204,768,329,795"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#aee75cc1546e19479e3ccda58f3b50a96" title="JS_SetPropertyValue" alt="" coords="409,160,555,187"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a9e158c521e5f706d415601df28dbe712" title="js_TA_cmp_generic" alt="" coords="198,819,335,845"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a8cc9386cd04cfa067d0c6bf588c6bb58" title="JS_ToFloat64" alt="" coords="215,363,318,389"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a6a81009df3c2dbacf14bbe0b69b6a6cd" title="js_unary_arith_slow" alt="" coords="613,109,751,136"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="799,109,909,136"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="616,211,748,237"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ad24e5f774218bb0d2859db9dc569d118" title="js_typed_array_sort" alt="" coords="414,819,550,845"/>
+<area shape="rect" id="node19" href="$quickjs-libc_8c.html#a2abec3aeee82a6dd3dd063725bbeecfe" title="js_printf_internal" alt="" coords="423,616,541,643"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#af2333dd9d30e60437b73af383477188c" title="JS_NumberIsInteger" alt="" coords="411,464,553,491"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a3486836f2ac17a9fa315904e14858e5a" title="js_call_c_function" alt="" coords="419,667,545,693"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#acf2f211c47aeb52306aa1467fc034915" title="__attribute" alt="" coords="441,717,523,744"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a591e7b9111823408a871a7ac8aca3fb2" title="js_global_isNaN" alt="" coords="423,768,541,795"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#abde92eeb026b3eaced267662c487b0b9" title="js_global_isFinite" alt="" coords="421,261,543,288"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a6626abf10d249f55912cc327b60f84bd" title="js_number_isSafeInteger" alt="" coords="399,312,565,339"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#affbdac19b10671cfe3ac54f3d8f33b38" title="js_string_fromCodePoint" alt="" coords="399,363,565,389"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a7e93a76184ec9bc88adb834f83f679d8" title="js_string_indexOf" alt="" coords="421,413,543,440"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#af5a7bd13b47d5c2de41e92111bf21305" title="js_math_min_max" alt="" coords="418,515,546,541"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#af44ac6dcee5acfb5d6039f82a68bc4e6" title="js_math_hypot" alt="" coords="429,565,535,592"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="js_object_is" name="js_object_is">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a93abffa925714e249a6aa2f4ae7900f6" title="JS_NewBool" alt="" coords="149,5,248,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a24be89a128d1cd7c0908604815b2b854" title="js_same_value" alt="" coords="144,56,253,83"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="301,31,404,57"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a6b7e8c810c238daa5ac20c70c2f22b24" title="js_strict_eq2" alt="" coords="305,81,401,108"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="464,56,568,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a3d9b165d4274aa43e051caba9bcbbe9f" title="js_string_compare" alt="" coords="452,107,580,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="__JS_ToFloat64Free" name="__JS_ToFloat64Free">
+<area shape="rect" id="node2" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="765,5,880,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ae738291483438efefca5c9fa4d269504" title="JS_ToNumberFree" alt="" coords="196,81,328,108"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a0315f23b9804563f376c47edef2967fd" title="JS_ToNumberHintFree" alt="" coords="376,157,532,184"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a40bcef4994dba57dfb34b6eed66daef0" title="js_atof" alt="" coords="618,107,679,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ae0bc4f65da64810facb2cb9e476eda2e" title="JS_FreeCString" alt="" coords="591,208,706,235"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="771,208,875,235"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="598,259,699,285"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a1e7f56471f8608df9405987087a56070" title="JS_ToCStringLen" alt="" coords="586,309,711,336"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#abac33881bb91f8c31106f616d81b67e8" title="JS_ToPrimitiveFree" alt="" coords="580,157,717,184"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a55c008c257c5802e77f5fec646e3ebf1" title="skip_spaces" alt="" coords="601,56,696,83"/>
+</map>

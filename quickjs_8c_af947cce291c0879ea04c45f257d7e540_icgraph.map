@@ -1,0 +1,8 @@
+<map id="get_date_fields" name="get_date_fields">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a937f8b17cb6d260cec8239dfb462035e" title="get_date_field" alt="" coords="168,5,271,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab522181d975cc7949088c8ff67fedde0" title="get_date_string" alt="" coords="164,56,275,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a12803d7cccf6345067677bd4d25287ed" title="set_date_field" alt="" coords="168,107,271,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a7e4e02ec8849f3beaf28dc0613bb4016" title="js_date_constructor" alt="" coords="323,56,459,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a8ecbf5799518b7bfc3fefd47c7a0dd4e" title="JS_AddIntrinsicDate" alt="" coords="507,56,649,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aea694f707706fc250d38365486dc8c96" title="js_date_setYear" alt="" coords="333,107,449,133"/>
+</map>

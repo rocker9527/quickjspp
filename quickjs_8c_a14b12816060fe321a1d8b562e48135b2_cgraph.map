@@ -1,0 +1,12 @@
+<map id="js_string_codePointRange" name="js_string_codePointRange">
+<area shape="rect" id="node2" href="$quickjs_8h.html#aa032ee323127468119b3dd2bb1452680" title="JS_ToUint32" alt="" coords="242,31,341,57"/>
+<area shape="rect" id="node6" href="$cutils_8h.html#a5a2cb266a87252bf4a7baaaaf9f59fb1" title="max_uint32" alt="" coords="247,81,336,108"/>
+<area shape="rect" id="node7" href="$cutils_8h.html#a5e9167b44a1b0bb69a0dcb32c18c882e" title="min_uint32" alt="" coords="249,132,334,159"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#accfc3d1dcaa88c88402cb245ccaf4fdb" title="string_buffer_end" alt="" coords="230,183,353,209"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ac43dee2ed14e80248f1af195bd3d8181" title="string_buffer_init2" alt="" coords="229,233,354,260"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a8d79794c85d33dd8409cdb39f2c2fc74" title="string_buffer_putc" alt="" coords="228,284,355,311"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a4073bd2b4f247bf6077cd956759193b9" title="JS_ToInt32" alt="" coords="428,31,517,57"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="597,5,699,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a643088ab23784b7f3c6ff94c37228256" title="JS_ToInt32Free" alt="" coords="591,56,705,83"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a9b8fb6b5ce638616691f7bf7881fa57d" title="string_buffer_putc16" alt="" coords="403,284,543,311"/>
+</map>

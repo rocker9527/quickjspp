@@ -1,0 +1,12 @@
+<map id="js_create_resolving_functions" name="js_create_resolving_functions">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a96f03a78375e0f29d9445c3fb2d5d60e" title="js_promise_constructor" alt="" coords="188,157,345,184"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a38596b6e5448e564dd261426466f36f6" title="js_promise_resolve\l_thenable_job" alt="" coords="199,209,334,250"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a28c0ccdd26317bc38d0a693f1dffe4dc" title="js_new_promise_capability" alt="" coords="393,132,572,159"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="401,183,564,209"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a2287eaf81466a0d408341cdae08ed673" title="JS_NewPromiseCapability" alt="" coords="626,5,805,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a7a5c4f3ad3260974d9a0c75120ce5647" title="js_promise_all" alt="" coords="663,56,768,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a44e36674957b179c1963f7046c049d14" title="js_promise_race" alt="" coords="657,107,774,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a192c7bd4fc5264ccdf89e13ed5bc0dcc" title="js_promise_resolve" alt="" coords="648,157,783,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ad66faf78650b6f6217fc4327b0739ba0" title="js_promise_then" alt="" coords="657,208,774,235"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a976c7217666ebb9ef04fd8cba9ba2dd2" title="js_promise_then_finally_func" alt="" coords="620,259,811,285"/>
+</map>
